@@ -20,6 +20,14 @@ Early Stage Program
     - [CLang + LLVM 19.1.2](https://github.com/songdongsheng/asset-store/releases/tag/clang-llvm-19.1.2)
 - [CLang + LLVM 18.1.8](https://github.com/songdongsheng/asset-store/releases/tag/clang-llvm-18.1.8)
 
+## GnuPG
+- GnuPG 2.5
+    - [GnuPG 2.5.1](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.1)
+- GnuPG 2.4
+    - [GnuPG 2.4.6](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6)
+- GnuPG 2.2
+    - [GnuPG 2.2.45](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.45)
+
 ## Linux sysroot
 
 ### RHEL
