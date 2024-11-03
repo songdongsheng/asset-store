@@ -14,11 +14,12 @@ Early Stage Program
 
 
 ## CLang + LLVM
-- [CLang + LLVM (20.x) - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/clang-llvm-20.x)
-- [CLang + LLVM (19.x) - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/clang-llvm-19.x)
+- [CLang + LLVM (20.x) - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.x)
+- [CLang + LLVM (19.x) - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.x)
     - ...
-    - [CLang + LLVM 19.1.2](https://github.com/songdongsheng/asset-store/releases/tag/clang-llvm-19.1.2)
-- [CLang + LLVM 18.1.8](https://github.com/songdongsheng/asset-store/releases/tag/clang-llvm-18.1.8)
+    - [CLang + LLVM 19.1.2](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.2)
+- [CLang + LLVM (18.x) - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-18.x)
+    - [CLang + LLVM 18.1.8](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-18.1.8)
 
 ## GnuPG
 - GnuPG 2.5
