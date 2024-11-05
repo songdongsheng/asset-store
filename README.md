@@ -4,12 +4,15 @@ Early Stage Program
 ## GCC
 - [gcc 14.x - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.x)
     - ...
+    - [gcc 14.2.1 - 20241101 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14-20241101-x86_64-linux-gnu.2.17)
     - [gcc 14.2.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241024)
 - [gcc 13.x - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.x)
     - ...
+    - [gcc 13.3.1 - 20241101 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12-20241101-x86_64-linux-gnu.2.17)
     - [gcc 13.3.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241024)
 - [gcc 12.x - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.x)
     - ...
+    - [gcc 12.4.1 - 20241101 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12-20241101-x86_64-linux-gnu.2.17)
     - [gcc 12.4.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241024)
 
 
