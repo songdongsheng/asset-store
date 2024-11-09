@@ -25,11 +25,11 @@ Early Stage Program
 
 ## GnuPG
 - GnuPG 2.5
-    - [GnuPG 2.5.1](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.1)
+    - [GnuPG 2.5.1](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.1) - (aarch64|x86_64)-linux-gnu.2.17
 - GnuPG 2.4
-    - [GnuPG 2.4.6](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6)
+    - [GnuPG 2.4.6](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6) - (aarch64|x86_64)-linux-gnu.2.17
 - GnuPG 2.2
-    - [GnuPG 2.2.45](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.45)
+    - [GnuPG 2.2.45](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.45) - (aarch64|x86_64)-linux-gnu.2.17
 
 ## Linux sysroot
 
