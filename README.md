@@ -4,15 +4,15 @@ Early Stage Program
 ## GCC
 - [GCC 14](https://gcc.gnu.org/gcc-14/changes.html)
     - ...
-    - [gcc 14.2.1 - 20241101 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14-20241101-x86_64-linux-gnu.2.17)
+    - [gcc 14.2.1 - 20241107 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241107)
     - [gcc 14.2.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241024)
 - [GCC 13](https://gcc.gnu.org/gcc-13/changes.html)
     - ...
-    - [gcc 13.3.1 - 20241101 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12-20241101-x86_64-linux-gnu.2.17)
+    - [gcc-13.3.1 - 20241106 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241106)
     - [gcc 13.3.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241024)
 - [GCC 12](https://gcc.gnu.org/gcc-12/changes.html)
     - ...
-    - [gcc 12.4.1 - 20241101 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12-20241101-x86_64-linux-gnu.2.17)
+    - [gcc 12.4.1 - 20241105 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241105)
     - [gcc 12.4.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241024)
 
 ## CLang + LLVM
