@@ -44,18 +44,18 @@ Early Stage Program
 #### RHEL 9 - GLIBC 2.34
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
     - ...
-    - [aarch64-linux-gnu.2.34-20240927](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240927)
-    - [aarch64-linux-gnu.2.34-20240830](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240830)
+    - [aarch64-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240927)
+    - [aarch64-linux-gnu.2.34-20240830 - RHEL 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240830)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
     - ...
-    - [s390x-linux-gnu.2.34-20240927](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240927)
-    - [s390x-linux-gnu.2.34-20240830](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240830)
+    - [s390x-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240927)
+    - [s390x-linux-gnu.2.34-20240830 - RHEL 9.4](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240830)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
     - ...
-    - [x86_64-linux-gnu.2.34-20240927](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240927)
-    - [x86_64-linux-gnu.2.34-20240830](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240830)
+    - [x86_64-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240927)
+    - [x86_64-linux-gnu.2.34-20240830 - RHEL 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240830)
 
-#### RHEL 8 - GLIBC 2.28
+#### RHEL 8.10 - GLIBC 2.28
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
     - ...
     - [aarch64-linux-gnu.2.28-20240816](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20240816)
@@ -66,7 +66,7 @@ Early Stage Program
     - ...
     - [x86_64-linux-gnu.2.28-20240816](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20240816)
 
-#### RHEL 7 - GLIBC 2.17
+#### RHEL 7.9 - GLIBC 2.17
 - [aarch64-linux-gnu.2.17 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17)
     - ...
     - [aarch64-linux-gnu.2.17-20240605](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17-20240605)
@@ -82,6 +82,7 @@ Early Stage Program
 #### Performance-optimized
 - [loongarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe)
     - ...
+    - [loongarch64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241115)
     - [loongarch64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241107)
 
 #### Debian ports
@@ -95,6 +96,7 @@ Early Stage Program
 #### Performance-optimized
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
     - ...
+    - [riscv64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241115)
     - [riscv64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241107)
 
 #### Ubuntu 24.10
