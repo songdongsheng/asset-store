@@ -19,7 +19,7 @@ Early Stage Program
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
 - [CLang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) (19.x)
     - ...
-    - [CLang + LLVM 19.1.2](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.2)
+    - [CLang + LLVM 19.1.4](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.4)
 - [CLang](https://releases.llvm.org/18.1.8/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/18.1.8/tools/clang/docs/ReleaseNotes.html) (18.x)
     - [CLang + LLVM 18.1.8](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-18.1.8)
 
@@ -88,6 +88,7 @@ Early Stage Program
 #### Debian ports
 - [loongarch64-linux-gnu.2.40 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
     - ...
+    - [loongarch64-linux-gnu.2.40-20241117](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241117)
     - [loongarch64-linux-gnu.2.40-20241109](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241109)
     - [loongarch64-linux-gnu.2.40-20241104](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241104)
 
