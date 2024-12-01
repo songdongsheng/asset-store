@@ -2,16 +2,21 @@
 Early Stage Program
 
 ## GCC
+- [GCC 15](https://gcc.gnu.org/gcc-15/changes.html)
+    - [gcc 15.0.0 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241130)
 - [GCC 14](https://gcc.gnu.org/gcc-14/changes.html)
-    - ...
+    - [gcc 14.2.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241130)
+    - [gcc 14.2.1 - 20241123 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241123)
     - [gcc 14.2.1 - 20241107 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241107)
     - [gcc 14.2.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241024)
 - [GCC 13](https://gcc.gnu.org/gcc-13/changes.html)
-    - ...
+    - [gcc-13.3.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241130)
+    - [gcc-13.3.1 - 20241123 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241123)
     - [gcc-13.3.1 - 20241106 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241106)
     - [gcc 13.3.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241024)
 - [GCC 12](https://gcc.gnu.org/gcc-12/changes.html)
-    - ...
+    - [gcc 12.4.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241130)
+    - [gcc 12.4.1 - 20241123 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241123)
     - [gcc 12.4.1 - 20241105 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241105)
     - [gcc 12.4.1 - 20241024 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241024)
 
@@ -27,6 +32,7 @@ Early Stage Program
 - GnuPG 2.5
     - [GnuPG 2.5.1 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.1)
 - GnuPG 2.4
+    - [GnuPG 2.4.7 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.7)
     - [GnuPG 2.4.6 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6)
 - GnuPG 2.2
     - [GnuPG 2.2.45 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.45)
@@ -87,9 +93,8 @@ Early Stage Program
 
 #### Debian ports
 - [loongarch64-linux-gnu.2.40 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
-    - ...
+    - [loongarch64-linux-gnu.2.40-20241129](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241129)
     - [loongarch64-linux-gnu.2.40-20241117](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241117)
-    - [loongarch64-linux-gnu.2.40-20241109](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241109)
     - [loongarch64-linux-gnu.2.40-20241104](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241104)
 
 ### riscv64-linux-gnu.2.40
