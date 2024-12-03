@@ -25,6 +25,7 @@ Early Stage Program
     - [CLang + LLVM 20.0.0 - 20241201](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241201)
 - [CLang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) (19.x)
     - ...
+    - [CLang + LLVM 19.1.5](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.5)
     - [CLang + LLVM 19.1.4](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.4)
 - [CLang](https://releases.llvm.org/18.1.8/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/18.1.8/tools/clang/docs/ReleaseNotes.html) (18.x)
     - [CLang + LLVM 18.1.8](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-18.1.8)
