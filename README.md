@@ -90,6 +90,7 @@ Early Stage Program
 #### Performance-optimized
 - [loongarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe)
     - ...
+    - [loongarch64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241204)
     - [loongarch64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241115)
     - [loongarch64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241107)
 
@@ -104,6 +105,7 @@ Early Stage Program
 #### Performance-optimized
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
     - ...
+    - [riscv64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241204)
     - [riscv64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241115)
     - [riscv64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241107)
 
