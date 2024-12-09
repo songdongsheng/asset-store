@@ -20,6 +20,7 @@ Early Stage Program
 
 ## CLang + LLVM
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
+    - [CLang + LLVM 20.0.0 - 20241208](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241208)
     - [CLang + LLVM 20.0.0 - 20241201](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241201)
 - [CLang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) (19.x)
     - ...
