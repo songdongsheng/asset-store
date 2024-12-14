@@ -3,20 +3,21 @@ Early Stage Program
 
 ## GCC
 - [GCC 15](https://gcc.gnu.org/gcc-15/changes.html)
+    - [gcc 15.0.0 - 20241214 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241214)
     - [gcc 15.0.0 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241205)
     - [gcc 15.0.0 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241130)
 - [GCC 14](https://gcc.gnu.org/gcc-14/changes.html)
+    - [gcc 14.2.1 - 20241213 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241213)
     - [gcc 14.2.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241205)
     - [gcc 14.2.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241130)
-    - [gcc 14.2.1 - 20241123 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241123)
 - [GCC 13](https://gcc.gnu.org/gcc-13/changes.html)
+    - [gcc-13.3.1 - 20241213 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241213)
     - [gcc-13.3.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241205)
     - [gcc-13.3.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241130)
-    - [gcc-13.3.1 - 20241123 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241123)
 - [GCC 12](https://gcc.gnu.org/gcc-12/changes.html)
+    - [gcc 12.4.1 - 20241212 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241212)
     - [gcc 12.4.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241205)
     - [gcc 12.4.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241130)
-    - [gcc 12.4.1 - 20241123 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241123)
 
 ## CLang + LLVM
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
@@ -66,45 +67,53 @@ Early Stage Program
 #### RHEL 8.10 - GLIBC 2.28
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
     - ...
-    - [aarch64-linux-gnu.2.28-20240816](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20240816)
+    - [aarch64-linux-gnu.2.28-20241111 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20241111)
+    - [aarch64-linux-gnu.2.28-20241008 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20241008)
+    - [aarch64-linux-gnu.2.28-20240816 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20240816)
 - [s390x-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28)
     - ...
-    - [s390x-linux-gnu.2.28-20240816](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20240816)
+    - [s390x-linux-gnu.2.28-20240816 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20240816)
 - [x86_64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28)
     - ...
-    - [x86_64-linux-gnu.2.28-20240816](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20240816)
+    - [x86_64-linux-gnu.2.28-20241111 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20241111)
+    - [x86_64-linux-gnu.2.28-20241008 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20241008)
+    - [x86_64-linux-gnu.2.28-20240816 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20240816)
 
 #### RHEL 7.9 - GLIBC 2.17
 - [aarch64-linux-gnu.2.17 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17)
     - ...
-    - [aarch64-linux-gnu.2.17-20240605](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17-20240605)
+    - [aarch64-linux-gnu.2.17-20240613 - Anolis OS 7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17-20240613)
+    - [aarch64-linux-gnu.2.17-20240605 - Oracle Linux 7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17-20240605)
 - [s390x-linux-gnu.2.17 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.17)
     - ...
-    - [s390x-linux-gnu.2.17-20240502](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.17-20240502)
+    - [s390x-linux-gnu.2.17-20240502 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.17-20240502)
 - [x86_64-linux-gnu.2.17 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17)
     - ...
-    - [x86_64-linux-gnu.2.17-20240502](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240502)
+    - [x86_64-linux-gnu.2.17-20240613 - Anolis OS 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240613)
+    - [x86_64-linux-gnu.2.17-20240605 - Oracle Linux 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240605)
+    - [x86_64-linux-gnu.2.17-20240502 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240502)
 
 ### loongarch64-linux-gnu.2.40
 
 #### Performance-optimized
 - [loongarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe)
     - ...
+    - [loongarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241212)
     - [loongarch64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241204)
     - [loongarch64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241115)
-    - [loongarch64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241107)
 
 #### Debian ports
 - [loongarch64-linux-gnu.2.40 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
+    - [loongarch64-linux-gnu.2.40-20241207](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241207)
     - [loongarch64-linux-gnu.2.40-20241129](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241129)
     - [loongarch64-linux-gnu.2.40-20241117](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241117)
-    - [loongarch64-linux-gnu.2.40-20241104](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241104)
 
 ### riscv64-linux-gnu.2.40
 
 #### Performance-optimized
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
     - ...
+    - [riscv64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241212)
     - [riscv64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241204)
     - [riscv64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241115)
     - [riscv64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241107)
@@ -112,6 +121,7 @@ Early Stage Program
 #### Ubuntu 24.10
 - [riscv64-linux-gnu.2.40 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40)
     - ...
+    - [riscv64-linux-gnu.2.40-20241121](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241121)
     - [riscv64-linux-gnu.2.40-20241014](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241014)
 
 ## FreeBSD sysroot
