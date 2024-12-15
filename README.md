@@ -46,6 +46,16 @@ Early Stage Program
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
 - [20241112 (aarch64, x86_64)](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20241112) - [Buildah](https://github.com/containers/buildah/releases) 1.38.0, [Podman](https://github.com/containers/podman/releases) 5.3.0 and [Skopeo](https://github.com/containers/skopeo/releases) 1.17.0
 
+## Linux containers
+- [QEMU user mode emulation](https://hub.docker.com/repository/docker/songdongsheng/qemu-user-static/tags)
+- [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=7.9), the end of life date is [June 30, 2028](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [Anolis OS 8.9 - glibc 2.28](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=8.9), the end of life date is [April 30, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [Anolis OS 23.1 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=23.1), the end of life date is [June 30, 2025](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/repository/docker/songdongsheng/opencloudos/tags?name=8.10), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/).
+- [OpenCloud OS 9.2 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/opencloudos/tags?name=9.2), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
+- [openEuler 22.03 - glibc 2.34](https://hub.docker.com/repository/docker/songdongsheng/openeuler/tags?name=22.03), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/).
+- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/openeuler/tags?name=24.03), the end of life date is [March 31, 2030](https://www.openeuler.org/en/other/lifecycle/).
+
 ## Linux sysroot
 
 ### RHEL
@@ -116,7 +126,6 @@ Early Stage Program
     - [riscv64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241212)
     - [riscv64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241204)
     - [riscv64-linux-gnu.2.40-xe-20241115](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241115)
-    - [riscv64-linux-gnu.2.40-xe-20241107](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241107)
 
 #### Ubuntu 24.10
 - [riscv64-linux-gnu.2.40 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40)
