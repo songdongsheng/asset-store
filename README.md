@@ -48,13 +48,13 @@ Early Stage Program
 
 ## Linux containers
 - [QEMU user mode emulation](https://hub.docker.com/repository/docker/songdongsheng/qemu-user-static/tags)
-- [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=7.9), the end of life date is [June 30, 2028](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
-- [Anolis OS 8.9 - glibc 2.28](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=8.9), the end of life date is [April 30, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
-- [Anolis OS 23.1 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=23.1), the end of life date is [June 30, 2025](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
-- [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/repository/docker/songdongsheng/opencloudos/tags?name=8.10), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/).
-- [OpenCloud OS 9.2 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/opencloudos/tags?name=9.2), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
-- [openEuler 22.03 - glibc 2.34](https://hub.docker.com/repository/docker/songdongsheng/openeuler/tags?name=22.03), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/).
-- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/openeuler/tags?name=24.03), the end of life date is [March 31, 2030](https://www.openeuler.org/en/other/lifecycle/).
+- [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [Anolis OS 8.9 - glibc 2.28](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=8.9) (aarch64, x86_64), the end of life date is [April 30, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [Anolis OS 23.1 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/anolisos/tags?name=23.1) (aarch64, **loongarch64**, x86_64), the end of life date is [June 30, 2025](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/repository/docker/songdongsheng/opencloudos/tags?name=8.10) (aarch64, x86_64), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/).
+- [OpenCloud OS 9.2 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/opencloudos/tags?name=9.2) (aarch64, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
+- [openEuler 22.03 - glibc 2.34](https://hub.docker.com/repository/docker/songdongsheng/openeuler/tags?name=22.03) (aarch64, x86_64), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/).
+- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/repository/docker/songdongsheng/openeuler/tags?name=24.03) (aarch64, **riscv64**, x86_64), the end of life date is [March 31, 2030](https://www.openeuler.org/en/other/lifecycle/).
 
 ## Linux sysroot
 
@@ -103,6 +103,13 @@ Early Stage Program
     - [x86_64-linux-gnu.2.17-20240605 - Oracle Linux 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240605)
     - [x86_64-linux-gnu.2.17-20240502 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240502)
 
+### aarch64-linux-gnu.2.40
+
+#### Performance-optimized
+- [aarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe)
+    - ...
+    - [aarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20241212)
+
 ### loongarch64-linux-gnu.2.40
 
 #### Performance-optimized
@@ -114,9 +121,9 @@ Early Stage Program
 
 #### Debian ports
 - [loongarch64-linux-gnu.2.40 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
+    - [loongarch64-linux-gnu.2.40-20241214](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241214)
     - [loongarch64-linux-gnu.2.40-20241207](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241207)
     - [loongarch64-linux-gnu.2.40-20241129](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241129)
-    - [loongarch64-linux-gnu.2.40-20241117](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241117)
 
 ### riscv64-linux-gnu.2.40
 
@@ -132,6 +139,13 @@ Early Stage Program
     - ...
     - [riscv64-linux-gnu.2.40-20241121](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241121)
     - [riscv64-linux-gnu.2.40-20241014](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241014)
+
+### x86_64-linux-gnu.2.40
+
+#### Performance-optimized
+- [x86_64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
+    - ...
+    - [x86_64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241212)
 
 ## FreeBSD sysroot
 - [FreeBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot)
