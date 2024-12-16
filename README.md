@@ -128,6 +128,10 @@ Early Stage Program
     - [riscv64-linux-gnu.2.40-20241121](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241121)
     - [riscv64-linux-gnu.2.40-20241014](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241014)
 
+#### s390x-linux-gnu.2.40
+- [s390x-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe)
+    - [s390x-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20241212)
+
 #### x86_64-linux-gnu.2.40
 - [x86_64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
     - [x86_64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241212)
