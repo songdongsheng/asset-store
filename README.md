@@ -47,7 +47,7 @@ Early Stage Program
 - [20241112 (aarch64, x86_64)](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20241112) - [Buildah](https://github.com/containers/buildah/releases) 1.38.0, [Podman](https://github.com/containers/podman/releases) 5.3.0 and [Skopeo](https://github.com/containers/skopeo/releases) 1.17.0
 
 ## Linux containers
-- [QEMU user mode emulation](https://hub.docker.com/repository/docker/songdongsheng/qemu-user-static/tags)
+- [QEMU user mode emulation](https://hub.docker.com/r/songdongsheng/qemu-user-static/tags)
 - [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
 - [Anolis OS 8.9 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.9) (aarch64, x86_64), the end of life date is [April 30, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
 - [Anolis OS 23.1 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.1) (aarch64, **loongarch64**, x86_64), the end of life date is [June 30, 2025](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
