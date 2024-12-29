@@ -117,9 +117,9 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241212)
     - [loongarch64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241204)
 - [loongarch64-linux-gnu.2.40 - **rolling** (Debian ports)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
+    - [loongarch64-linux-gnu.2.40-20241221](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241221)
     - [loongarch64-linux-gnu.2.40-20241215](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241215)
     - [loongarch64-linux-gnu.2.40-20241207](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241207)
-    - [loongarch64-linux-gnu.2.40-20241129](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241129)
 
 #### riscv64-linux-gnu.2.40
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
