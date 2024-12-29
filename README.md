@@ -3,17 +3,17 @@ Early Stage Program
 
 ## GCC
 - [GCC 15](https://gcc.gnu.org/gcc-15/changes.html)
+    - [gcc 15.0.0 - 20241224 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241224)
     - [gcc 15.0.0 - 20241221 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241221)
     - [gcc 15.0.0 - 20241214 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241214)
-    - [gcc 15.0.0 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241205)
 - [GCC 14](https://gcc.gnu.org/gcc-14/changes.html)
+    - [gcc 14.2.1 - 20241224 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241224)
     - [gcc 14.2.1 - 20241219 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241219)
     - [gcc 14.2.1 - 20241213 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241213)
-    - [gcc 14.2.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241205)
 - [GCC 13](https://gcc.gnu.org/gcc-13/changes.html)
+    - [gcc-13.3.1 - 20241222 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241222)
     - [gcc-13.3.1 - 20241217 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241217)
     - [gcc-13.3.1 - 20241213 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241213)
-    - [gcc-13.3.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241205)
 - [GCC 12](https://gcc.gnu.org/gcc-12/changes.html)
     - [gcc 12.4.1 - 20241212 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241212)
     - [gcc 12.4.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241205)
@@ -21,6 +21,7 @@ Early Stage Program
 
 ## CLang + LLVM
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
+    - [CLang + LLVM 20.0.0 - 20241229](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241229)
     - [CLang + LLVM 20.0.0 - 20241208](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241208)
     - [CLang + LLVM 20.0.0 - 20241201](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241201)
 - [CLang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) (19.x)
