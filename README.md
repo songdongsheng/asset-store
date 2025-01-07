@@ -3,21 +3,21 @@ Early Stage Program
 
 ## GCC
 - [GCC 15](https://gcc.gnu.org/gcc-15/changes.html)
+    - [gcc 15.0.0 - 20250108 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20250108)
     - [gcc 15.0.0 - 20241224 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241224)
     - [gcc 15.0.0 - 20241221 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241221)
-    - [gcc 15.0.0 - 20241214 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241214)
 - [GCC 14](https://gcc.gnu.org/gcc-14/changes.html)
+    - [gcc 14.2.1 - 20250106 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250106)
     - [gcc 14.2.1 - 20241224 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241224)
     - [gcc 14.2.1 - 20241219 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241219)
-    - [gcc 14.2.1 - 20241213 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241213)
 - [GCC 13](https://gcc.gnu.org/gcc-13/changes.html)
+    - [gcc-13.3.1 - 20250107 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250107)
     - [gcc-13.3.1 - 20241222 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241222)
     - [gcc-13.3.1 - 20241217 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241217)
-    - [gcc-13.3.1 - 20241213 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241213)
 - [GCC 12](https://gcc.gnu.org/gcc-12/changes.html)
+    - [gcc 12.4.1 - 20250107 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250107)
     - [gcc 12.4.1 - 20241212 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241212)
     - [gcc 12.4.1 - 20241205 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241205)
-    - [gcc 12.4.1 - 20241130 (glibc 2.17+)](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241130)
 
 ## CLang + LLVM
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
@@ -117,9 +117,9 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241212)
     - [loongarch64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241204)
 - [loongarch64-linux-gnu.2.40 - **rolling** (Debian ports)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
+    - [loongarch64-linux-gnu.2.40-20250103](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250103)
+    - [loongarch64-linux-gnu.2.40-20241230](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241230)
     - [loongarch64-linux-gnu.2.40-20241221](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241221)
-    - [loongarch64-linux-gnu.2.40-20241215](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241215)
-    - [loongarch64-linux-gnu.2.40-20241207](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241207)
 
 #### riscv64-linux-gnu.2.40
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
