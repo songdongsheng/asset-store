@@ -21,12 +21,12 @@ Early Stage Program
 
 ## CLang + LLVM
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
-    - [Clang + LLVM 20.0.0 - 20250102 @ aarch64-linux-gnu.2.17] (https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250102-aarch64)
+    - [Clang + LLVM 20.0.0 - 20250102 @ aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250102-aarch64)
     - [CLang + LLVM 20.0.0 - 20241229](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241229)
     - [CLang + LLVM 20.0.0 - 20241208](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241208)
     - [CLang + LLVM 20.0.0 - 20241201](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241201)
 - [CLang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) (19.x)
-    - [CLang + LLVM 19.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.6) @ [x86_64-linux-gnu.2.17](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6) & [aarch64-linux-gnu.2.17](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6-aarch64)
+    - [CLang + LLVM 19.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.6) @ [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6) & [aarch64-linux-gnu.2.28+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6-aarch64)
     - [CLang + LLVM 19.1.5](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.5)
     - [CLang + LLVM 19.1.4](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.4)
 - [CLang](https://releases.llvm.org/18.1.8/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/18.1.8/tools/clang/docs/ReleaseNotes.html) (18.x)
