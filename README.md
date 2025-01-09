@@ -21,11 +21,12 @@ Early Stage Program
 
 ## CLang + LLVM
 - [CLang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) (20.x)
+    - [Clang + LLVM 20.0.0 - 20250102 @ aarch64-linux-gnu.2.17] (https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250102-aarch64)
     - [CLang + LLVM 20.0.0 - 20241229](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241229)
     - [CLang + LLVM 20.0.0 - 20241208](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241208)
     - [CLang + LLVM 20.0.0 - 20241201](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241201)
 - [CLang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) (19.x)
-    - [CLang + LLVM 19.1.6](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6)
+    - [CLang + LLVM 19.1.6](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.6) @ [x86_64-linux-gnu.2.17](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6) & [aarch64-linux-gnu.2.17](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6-aarch64)
     - [CLang + LLVM 19.1.5](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.5)
     - [CLang + LLVM 19.1.4](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.4)
 - [CLang](https://releases.llvm.org/18.1.8/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/18.1.8/tools/clang/docs/ReleaseNotes.html) (18.x)
@@ -50,8 +51,8 @@ Early Stage Program
 ## Linux containers
 - [QEMU user mode emulation](https://hub.docker.com/r/songdongsheng/qemu-user-static/tags)
 - [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
-- [Anolis OS 8.9 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.9) (aarch64, x86_64), the end of life date is [April 30, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
-- [Anolis OS 23.1 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.1) (aarch64, **loongarch64**, x86_64), the end of life date is [June 30, 2025](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [Anolis OS 8.9 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.9) (aarch64, x86_64), the end of life date is [March 31, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
+- [Anolis OS 23.2 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.2) (aarch64, **loongarch64**, x86_64), the end of life date is [June 30, 2030](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
 - [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=8.10) (aarch64, x86_64), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/).
 - [OpenCloud OS 9.2 - glibc 2.38](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=9.2) (aarch64, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
 - [openEuler 22.03 - glibc 2.34](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=22.03) (aarch64, x86_64), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/).
@@ -133,7 +134,7 @@ Early Stage Program
 
 #### s390x-linux-gnu.2.40
 - [s390x-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe)
-    - [s390x-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20241219)
+    - [s390x-linux-gnu.2.40-xe-20241222](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20241222)
 
 #### x86_64-linux-gnu.2.40
 - [x86_64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
