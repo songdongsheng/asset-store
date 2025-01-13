@@ -12,6 +12,7 @@ Early Stage Program
     - [gcc 14.2.1 - 20241224](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241224)
     - [gcc 14.2.1 - 20241219](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241219)
 - [GCC](https://gcc.gnu.org/gcc-13/changes.html) - [13.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-13)
+    - [gcc 13.3.1 - 20250112](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f10d381dfc983ea32e5f72faadc7eb8126f114f6): [**This build is all native programs, not cross-compilation tools**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250112)
     - [gcc-13.3.1 - 20250107](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250107)
     - [gcc-13.3.1 - 20241222](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241222)
     - [gcc-13.3.1 - 20241217](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241217)
@@ -26,6 +27,7 @@ Early Stage Program
     - [Clang + LLVM 20.0.0 - 20250113](https://github.com/llvm/llvm-project/commit/b5987157e86b3ef87b8ed95f737e0a016974c793): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250113-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250113-x86_64).
     - [Clang + LLVM 20.0.0 - 20250102](https://github.com/llvm/llvm-project/commit/71d6b0b0c1e5e7f34ccb710470cb90a9a51005c8): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250102-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20241229).
 - [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
+    - [Clang + LLVM 19.1.7 - 20250114](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.7): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-x86_64).
     - [Clang + LLVM 19.1.6 - 20241217](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.6): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6).
     - [Clang + LLVM 19.1.5 - 20241203](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.5): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.5)
     - [Clang + LLVM 19.1.4 - 20241119](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.4): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.4)
