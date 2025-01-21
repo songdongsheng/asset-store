@@ -24,6 +24,7 @@ Early Stage Program
 
 ## Clang + LLVM
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/main/)
+    - [Clang + LLVM 20.0.0 - 20250121](https://github.com/llvm/llvm-project/commit/5deb4ef9ab1144542d748f71235b029bed06dd26): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250121-x86_64).
     - [Clang + LLVM 20.0.0 - 20250113](https://github.com/llvm/llvm-project/commit/b5987157e86b3ef87b8ed95f737e0a016974c793): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250113-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250113-x86_64).
 - [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
     - [Clang + LLVM 19.1.7 - 20250114](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.7): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-x86_64).
@@ -98,39 +99,30 @@ Early Stage Program
     - [x86_64-linux-gnu.2.17-20240502 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240502)
 
 ### Performance-optimized
-
-#### [aarch64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
-- [aarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe)
+#### GLIBC [2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
+- aarch64-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe)
     - [aarch64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20250120)
     - [aarch64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20241219)
     - [aarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20241212)
-
-#### [loongarch64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
-- [loongarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe)
+- loongarch64-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe)
     - [loongarch64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20250120)
     - [loongarch64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241219)
     - [loongarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241212)
-- [loongarch64-linux-gnu.2.40 - **rolling** (Debian ports)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
+- loongarch64-linux-gnu.2.40 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/))
     - [loongarch64-linux-gnu.2.40-20250118](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250118)
     - [loongarch64-linux-gnu.2.40-20250111](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250111)
     - [loongarch64-linux-gnu.2.40-20250103](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250103)
-
-#### [riscv64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
-- [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
+- riscv64-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
     - [riscv64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20250120)
     - [riscv64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241219)
     - [riscv64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241212)
-- [riscv64-linux-gnu.2.40 - **rolling** (Ubuntu 24.10)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40)
+- riscv64-linux-gnu.2.40 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40) ([Ubuntu 24.10](https://launchpad.net/ubuntu/+source/glibc))
     - [riscv64-linux-gnu.2.40-20241130](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241130)
     - [riscv64-linux-gnu.2.40-20241121](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241121)
     - [riscv64-linux-gnu.2.40-20241014](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241014)
-
-#### [s390x-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
-- [s390x-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe)
+- s390x-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe)
     - [s390x-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20250120)
-
-#### [x86_64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
-- [x86_64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
+- x86_64-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
     - [x86_64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20250120)
     - [x86_64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241219)
     - [x86_64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241212)
