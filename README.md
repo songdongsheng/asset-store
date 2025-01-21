@@ -3,24 +3,24 @@ Early Stage Program
 
 ## GCC
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/master)
+    - [gcc 15.0.0 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20250121)
     - [gcc 15.0.0 - 20250108](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20250108)
     - [gcc 15.0.0 - 20241224](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241224)
-    - [gcc 15.0.0 - 20241221](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241221)
 - [GCC](https://gcc.gnu.org/gcc-14/changes.html) - [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
+    - [gcc 14.2.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=a82352a2a074230d841a3944e30bd497726e0bfa): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250121)
     - [gcc 14.2.1 - 20250116](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=7df6af205f5c9853c4d70b5b8172b0483179c891): [**This build is all native programs, not cross-compilation tools**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250116)
     - [gcc 14.2.1 - 20250106](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250106)
     - [gcc 14.2.1 - 20241224](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241224)
-    - [gcc 14.2.1 - 20241219](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20241219)
 - [GCC](https://gcc.gnu.org/gcc-13/changes.html) - [13.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-13)
+    - [gcc 13.3.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=24291f6e40e4b37954b368361fc97fc8fb1bf864): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250121)
     - [gcc 13.3.1 - 20250116](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=35069d462540f1175665fc90076142504a35f423): [**This build is all native programs, not cross-compilation tools**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250116)
     - [gcc-13.3.1 - 20250107](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250107)
     - [gcc-13.3.1 - 20241222](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241222)
-    - [gcc-13.3.1 - 20241217](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20241217)
 - [GCC](https://gcc.gnu.org/gcc-12/changes.html) - [12.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-12)
+    - [gcc 12.4.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=4d320a7df4b25c2eb060a2a16fee8b993301be55): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250121)
     - [gcc 12.4.1 - 20250114](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=3911b6366ee49dffe2f16578093b49664b3a2d72): [**This build is all native programs, not cross-compilation tools**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250114)
     - [gcc 12.4.1 - 20250107](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250107)
     - [gcc 12.4.1 - 20241212](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241212)
-    - [gcc 12.4.1 - 20241205](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20241205)
 
 ## Clang + LLVM
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/main/)
