@@ -27,8 +27,6 @@ Early Stage Program
     - [Clang + LLVM 20.0.0 - 20250113](https://github.com/llvm/llvm-project/commit/b5987157e86b3ef87b8ed95f737e0a016974c793): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250113-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.0.0-20250113-x86_64).
 - [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
     - [Clang + LLVM 19.1.7 - 20250114](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.7): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-x86_64).
-    - [Clang + LLVM 19.1.6 - 20241217](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.6): [aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6-aarch64), [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.6).
-    - [Clang + LLVM 19.1.5 - 20241203](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.5): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.5)
 - [Clang](https://releases.llvm.org/18.1.8/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/18.1.8/tools/clang/docs/ReleaseNotes.html) - [18.x](https://github.com/llvm/llvm-project/commits/release/18.x)
     - [Clang + LLVM 18.1.8 - 20240619](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-18.1.8)
 
@@ -112,9 +110,9 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241212)
     - [loongarch64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241204)
 - [loongarch64-linux-gnu.2.40 - **rolling** (Debian ports)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
+    - [loongarch64-linux-gnu.2.40-20250118](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250118)
     - [loongarch64-linux-gnu.2.40-20250111](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250111)
     - [loongarch64-linux-gnu.2.40-20250103](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250103)
-    - [loongarch64-linux-gnu.2.40-20241230](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20241230)
 
 #### [riscv64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
