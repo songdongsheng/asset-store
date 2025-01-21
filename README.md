@@ -3,7 +3,7 @@ Early Stage Program
 
 ## GCC
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/master)
-    - [gcc 15.0.0 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20250121)
+    - [gcc 15.0.1 - 20250120](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250120)
     - [gcc 15.0.0 - 20250108](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20250108)
     - [gcc 15.0.0 - 20241224](): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.0-20241224)
 - [GCC](https://gcc.gnu.org/gcc-14/changes.html) - [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
