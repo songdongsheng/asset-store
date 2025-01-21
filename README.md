@@ -101,14 +101,15 @@ Early Stage Program
 
 #### [aarch64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
 - [aarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe)
+    - [aarch64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20250120)
     - [aarch64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20241219)
     - [aarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-xe-20241212)
 
 #### [loongarch64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
 - [loongarch64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe)
+    - [loongarch64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20250120)
     - [loongarch64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241219)
     - [loongarch64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241212)
-    - [loongarch64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241204)
 - [loongarch64-linux-gnu.2.40 - **rolling** (Debian ports)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40)
     - [loongarch64-linux-gnu.2.40-20250118](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250118)
     - [loongarch64-linux-gnu.2.40-20250111](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250111)
@@ -116,9 +117,9 @@ Early Stage Program
 
 #### [riscv64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
 - [riscv64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
+    - [riscv64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20250120)
     - [riscv64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241219)
     - [riscv64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241212)
-    - [riscv64-linux-gnu.2.40-xe-20241204](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241204)
 - [riscv64-linux-gnu.2.40 - **rolling** (Ubuntu 24.10)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40)
     - [riscv64-linux-gnu.2.40-20241130](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241130)
     - [riscv64-linux-gnu.2.40-20241121](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20241121)
@@ -126,10 +127,11 @@ Early Stage Program
 
 #### [s390x-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
 - [s390x-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe)
-    - [s390x-linux-gnu.2.40-xe-20241222](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20241222)
+    - [s390x-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20250120)
 
 #### [x86_64-linux-gnu.2.40](https://github.com/bminor/glibc/commits/release/2.40/master)
 - [x86_64-linux-gnu.2.40-xe - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
+    - [x86_64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20250120)
     - [x86_64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241219)
     - [x86_64-linux-gnu.2.40-xe-20241212](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241212)
 
