@@ -33,6 +33,7 @@ Early Stage Program
 
 ## GnuPG
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.4 - 20250212](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.4.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.4)
     - [GnuPG 2.5.3 - 20250109](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.3.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.3)
     - [GnuPG 2.5.2 - 20241205](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.2.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.2)
     - [GnuPG 2.5.1 - 20240912](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.1.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.1)
