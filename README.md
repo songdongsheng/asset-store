@@ -157,6 +157,7 @@ Early Stage Program
 - [FreeBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot)
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
 - [FreeBSD - 14.1: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.1)
+- [FreeBSD - 13.5: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-13.5)
 - [FreeBSD - 13.4: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-13.4)
 
 ## [NetBSD](https://www.netbsd.org/releases/) sysroot
