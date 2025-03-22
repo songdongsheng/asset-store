@@ -25,6 +25,7 @@ Early Stage Program
 ## Clang + LLVM
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/main)
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
+    - [Clang + LLVM 20.1.2 - 20250401](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.2): [(aarch64|x86_64)-linux-gnu.2.17+, Windows with VS 2022](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.2).
     - [Clang + LLVM 20.1.1 - 20250318](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.1): [(aarch64|x86_64)-linux-gnu.2.17+, Windows with VS 2022](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.1).
     - [Clang + LLVM 20.1.0 - 20250304](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.0): [(aarch64|x86_64)-linux-gnu.2.17+, Windows with VS 2022](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.0).
 - [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
@@ -120,12 +121,12 @@ Early Stage Program
     - [aarch64-linux-gnu.2.41-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe-20250319)
 - loongarch64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe)
     - [loongarch64-linux-gnu.2.41-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250319)
-- loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
-    - [loongarch64-linux-gnu.2.41-20250315](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250315)
+- loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/) & [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-14/))
+    - [loongarch64-linux-gnu.2.41-20250316](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250316)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250319)
-- riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://packages.debian.org/testing/libc6) - [glibc](https://deb.debian.org/debian/pool/main/g/glibc/?C=M;O=D))
-    - [riscv64-linux-gnu.2.41-20250309](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250309)
+- riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://wiki.debian.org/DebianReleases) - [glibc](https://packages.debian.org/testing/libc6) & [gcc](https://packages.debian.org/testing/gcc-14))
+    - [riscv64-linux-gnu.2.41-20250314](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250314)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
     - [s390x-linux-gnu.2.41-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20250319)
 - x86_64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.41-xe)
@@ -140,18 +141,10 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.40-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20250319)
     - [loongarch64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20250120)
     - [loongarch64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-xe-20241219)
-- loongarch64-linux-gnu.2.40 - [**frozen**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
-    - [loongarch64-linux-gnu.2.40-20250222](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250222) - **final version**
-    - [loongarch64-linux-gnu.2.40-20250215](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250215)
-    - [loongarch64-linux-gnu.2.40-20250212](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.40-20250212)
 - riscv64-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe)
     - [riscv64-linux-gnu.2.40-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20250319)
     - [riscv64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20250120)
     - [riscv64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-xe-20241219)
-- riscv64-linux-gnu.2.40 - [**frozen**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40) ([Debian 13](https://packages.debian.org/testing/libc6) - [glibc](https://deb.debian.org/debian/pool/main/g/glibc/?C=M;O=D))
-    - [riscv64-linux-gnu.2.40-20250215](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20250215) - **final version**
-    - [riscv64-linux-gnu.2.40-20250207](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20250207)
-    - [riscv64-linux-gnu.2.40-20250127](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.40-20250127)
 - s390x-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe)
     - [s390x-linux-gnu.2.40-xe-20250319](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-xe-20250319)
 - x86_64-linux-gnu.2.40-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe)
@@ -159,7 +152,7 @@ Early Stage Program
     - [x86_64-linux-gnu.2.40-xe-20250120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20250120)
     - [x86_64-linux-gnu.2.40-xe-20241219](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20241219)
 
-## [FreeBSD](https://www.freebsd.org/releases/) sysroot
+## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot)
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
 - [FreeBSD - 14.1: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.1)
