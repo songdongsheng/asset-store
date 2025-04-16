@@ -65,7 +65,6 @@ Early Stage Program
 ## Linux sysroot
 
 ### RHEL [release dates](https://access.redhat.com/articles/3078) & [life cycle](https://access.redhat.com/support/policy/updates/errata/)
-
 #### RHEL 9 - GLIBC 2.34
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
     - [aarch64-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250213)
@@ -165,6 +164,23 @@ Early Stage Program
     - [x86_64-linux-gnu.2.40-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20250412)
     - [x86_64-linux-gnu.2.40-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20250331)
     - [x86_64-linux-gnu.2.40-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-xe-20250318)
+
+### Linux distribution based on GLIBC 2.38
+#### Anolis OS 23
+- [aarch64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
+- [loongarch64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-20250415)
+- [x86_64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+#### OpenCloud OS 9
+- [aarch64-linux-gnu.2.38-20250415 - OpenCloud OS 9](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
+- [x86_64-linux-gnu.2.38-20250415 - OpenCloud OS 9](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+#### SLES 15 (SP6+)
+- [aarch64-linux-gnu.2.38-20250415 - SLES 15](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
+- [s390x-linux-gnu.2.38-20250415 - SLES 15](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250415)
+- [x86_64-linux-gnu.2.38-20250415 - SLES 15](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+#### openEuler 24.03
+- [aarch64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
+- [riscv64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-20250415)
+- [x86_64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot)
