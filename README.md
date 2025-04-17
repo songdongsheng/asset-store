@@ -171,13 +171,22 @@ Early Stage Program
 - [aarch64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
 - [loongarch64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-20250415)
 - [x86_64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+
 #### OpenCloud OS 9
 - [aarch64-linux-gnu.2.38-20250415 - OpenCloud OS 9](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
 - [x86_64-linux-gnu.2.38-20250415 - OpenCloud OS 9](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+
 #### SLES 15 (SP6+)
-- [aarch64-linux-gnu.2.38-20250415 - SLES 15](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
-- [s390x-linux-gnu.2.38-20250415 - SLES 15](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250415)
-- [x86_64-linux-gnu.2.38-20250415 - SLES 15](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+- [aarch64-linux-gnu.2.38-20250204 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250204)
+- [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
+- [aarch64-linux-gnu.2.31-20241021 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20241021)
+- [s390x-linux-gnu.2.38-20250204 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250204)
+- [s390x-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408)
+- [s390x-linux-gnu.2.31-20241021 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31-20241021)
+- [x86_64-linux-gnu.2.38-20250204 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250204)
+- [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408)
+- [x86_64-linux-gnu.2.31-20241021 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31-20241021)
+
 #### openEuler 24.03
 - [aarch64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
 - [riscv64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-20250415)
