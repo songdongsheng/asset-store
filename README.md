@@ -125,6 +125,7 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250331)
     - [loongarch64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250318)
 - loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-14/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.41-20250413](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250413)
     - [loongarch64-linux-gnu.2.41-20250330](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250330)
     - [loongarch64-linux-gnu.2.41-20250316](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250316)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
