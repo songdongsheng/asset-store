@@ -176,6 +176,11 @@ Early Stage Program
 - [aarch64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.2-20250330)
 - [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
+#### openEuler 24.03
+- [aarch64-linux-gnu.2.38-20250401 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250401)
+- [riscv64-linux-gnu.2.38-20240524 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20240524)
+- [x86_64-linux-gnu.2.38-20250401 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
+
 #### SLES 15 (SP6+)
 - [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
 - [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408-sles-15.6)
@@ -190,12 +195,7 @@ Early Stage Program
 #### Leap 15 SP6
 - [aarch64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250408)
 - [s390x-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250408)
-- [x86_64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250408)
-
-#### openEuler 24.03
-- [aarch64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
-- [riscv64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-20250415)
-- [x86_64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+- [x86_64-linux-gnu.2.38-20250401 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
