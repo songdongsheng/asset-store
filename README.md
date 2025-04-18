@@ -168,24 +168,29 @@ Early Stage Program
 
 ### Linux distribution based on GLIBC 2.38
 #### Anolis OS 23
-- [aarch64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
-- [loongarch64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-20250415)
-- [x86_64-linux-gnu.2.38-20250415 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+- [aarch64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.2-20250327)
+- [loongarch64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.2-20250327)
+- [x86_64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.2-20250327)
 
 #### OpenCloud OS 9
-- [aarch64-linux-gnu.2.38-20250415 - OpenCloud OS 9](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
-- [x86_64-linux-gnu.2.38-20250415 - OpenCloud OS 9](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
+- [aarch64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.2-20250330)
+- [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
 #### SLES 15 (SP6+)
-- [aarch64-linux-gnu.2.38-20250204 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250204)
-- [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
-- [aarch64-linux-gnu.2.31-20241021 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20241021)
-- [s390x-linux-gnu.2.38-20250204 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250204)
-- [s390x-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408)
-- [s390x-linux-gnu.2.31-20241021 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31-20241021)
-- [x86_64-linux-gnu.2.38-20250204 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250204)
-- [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408)
-- [x86_64-linux-gnu.2.31-20241021 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31-20241021)
+- [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
+- [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408-sles-15.6)
+- [aarch64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20250127)
+- [s390x-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408)
+- [s390x-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408-sles-15.6)
+- [s390x-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31-20250127)
+- [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408)
+- [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408-sles-15.6)
+- [x86_64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31-20250127)
+
+#### Leap 15 SP6
+- [aarch64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250408)
+- [s390x-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250408)
+- [x86_64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250408)
 
 #### openEuler 24.03
 - [aarch64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250415)
@@ -193,19 +198,16 @@ Early Stage Program
 - [x86_64-linux-gnu.2.38-20250415 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250415)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
-- [FreeBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot)
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
 - [FreeBSD - 14.1: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.1)
 - [FreeBSD - 13.5: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-13.5)
 - [FreeBSD - 13.4: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-13.4)
 
 ## [NetBSD](https://www.netbsd.org/releases/) sysroot
-- [NetBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot)
 - [NetBSD - 10.1: aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-10.1)
 - [NetBSD - 10.0: aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-10.0)
 - [NetBSD -  9.4: aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.4)
 
 ## [OpenBSD](https://www.openbsd.org/faq/faq4.html#Download) sysroot
-- [OpenBSD - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot)
 - [OpenBSD - 7.6: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.6)
 - [OpenBSD - 7.5: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.5)
