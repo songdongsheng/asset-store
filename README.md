@@ -2,7 +2,9 @@
 Early Stage Program
 
 ## GCC
-- [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/master)
+- [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
+    - [gcc 16.0.0 - 20250419](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f9ea46d946887a05d7ecbca5aeeb99fd868f6e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250419)
+- [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
     - [gcc 15.0.1 - 20250411](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=3b33d792cf1e4d2ea3d36d3ad403cbb452243cd8): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250411)
     - [gcc 15.0.1 - 20250331](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=aa3aaf2bfb8fcc17076993df4297597b68bc5f60): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250331)
     - [gcc 15.0.1 - 20250120](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250120)
@@ -115,7 +117,7 @@ Early Stage Program
     - [x86_64-linux-gnu.2.17-20240502 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240502)
 
 ### Performance-optimized
-#### GLIBC [2.41](https://github.com/bminor/glibc/commits/release/2.41/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/master)
+#### GLIBC [2.41](https://github.com/bminor/glibc/commits/release/2.41/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
 - aarch64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe)
     - [aarch64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe-20250412)
     - [aarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe-20250331)
@@ -176,10 +178,10 @@ Early Stage Program
 - [aarch64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.2-20250330)
 - [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
-#### openEuler 24.03
-- [aarch64-linux-gnu.2.38-20250401 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250401)
-- [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
-- [x86_64-linux-gnu.2.38-20250401 - openEuler 24.03](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
+#### openEuler 24.03 LTS
+- [aarch64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250401)
+- [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
+- [x86_64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
 
 #### SLES 15 (SP6+)
 - [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
