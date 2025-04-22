@@ -181,6 +181,7 @@ Early Stage Program
 
 #### openEuler 24.03 LTS
 - [aarch64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250401)
+- [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
 - [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
 
