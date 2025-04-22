@@ -83,9 +83,9 @@ Early Stage Program
 
 #### RHEL 8.10 - GLIBC 2.28
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
+    - [aarch64-linux-gnu.2.28-20250418 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250418)
     - [aarch64-linux-gnu.2.28-20250415 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250415)
     - [aarch64-linux-gnu.2.28-20250304 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250304)
-    - [aarch64-linux-gnu.2.28-20241213 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20241213)
     - [aarch64-linux-gnu.2.28-20250225 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250225)
     - [aarch64-linux-gnu.2.28-20250214 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250214)
     - [aarch64-linux-gnu.2.28-20250328 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250328)
@@ -96,9 +96,9 @@ Early Stage Program
     - [s390x-linux-gnu.2.28-20250321 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20250321)
     - [s390x-linux-gnu.2.28-20250207 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20250207)
 - [x86_64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28)
+    - [x86_64-linux-gnu.2.28-20250418 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250418)
     - [x86_64-linux-gnu.2.28-20250415 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250415)
     - [x86_64-linux-gnu.2.28-20250304 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250304)
-    - [x86_64-linux-gnu.2.28-20241213 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20241213)
     - [x86_64-linux-gnu.2.28-20250225 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250225)
     - [x86_64-linux-gnu.2.28-20250214 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250214)
     - [x86_64-linux-gnu.2.28-20250328 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250328)
@@ -135,6 +135,7 @@ Early Stage Program
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
     - [riscv64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250318)
 - riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/trixie/linux-libc-dev), [glibc](https://packages.debian.org/testing/libc6) & [gcc](https://packages.debian.org/testing/gcc-14))
+    - [riscv64-linux-gnu.2.41-20250413](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250413)
     - [riscv64-linux-gnu.2.41-20250330](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250330)
     - [riscv64-linux-gnu.2.41-20250314](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250314)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
@@ -197,7 +198,7 @@ Early Stage Program
 #### Leap 15 SP6
 - [aarch64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250408)
 - [s390x-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250408)
-- [x86_64-linux-gnu.2.38-20250401 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
+- [x86_64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250408)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
