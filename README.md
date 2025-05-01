@@ -3,9 +3,9 @@ Early Stage Program
 
 ## GCC
 - [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
-    - [gcc 16.0.0 - 20250426](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0035613389a939043d654aea7a76faae95f69422): Compiler on [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250426-x86_64)
+    - [gcc 16.0.0 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f962f594e9006651379dafc9ef039be9654e6291): Compiler on [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250427-x86_64)
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
-    - [gcc 15.1.1 - 20250526](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=4b0d25e72624b9ae0b6c3f9b4e52070114ba6d1e): Compiler on [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.1-20250526-x86_64)
+    - [gcc 15.1.1 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0839c77b83c673aa5970c83c5dcaa03147d54362): Compiler on [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.1-20250427-x86_64)
     - [**gcc 15.1.0 - 20250425**](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=1b306039ac49f8ad91ca71d3de3150a3c9fa792a): Compiler on [**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.0-x86_64) and [**aarch64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.0-aarch64)
     - [gcc 15.0.1 - 20250411](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=3b33d792cf1e4d2ea3d36d3ad403cbb452243cd8): Compiler on [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250411)
     - [gcc 15.0.1 - 20250120](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): Compiler on [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250120)
@@ -70,17 +70,17 @@ Early Stage Program
 ### RHEL [release dates](https://access.redhat.com/articles/3078) & [life cycle](https://access.redhat.com/support/policy/updates/errata/)
 #### RHEL 9 - GLIBC 2.34
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
+    - [aarch64-linux-gnu.2.34-20250403 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250403)
     - [aarch64-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250213)
     - [aarch64-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240927)
-    - [aarch64-linux-gnu.2.34-20240830 - RHEL 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240830)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
+    - [s390x-linux-gnu.2.34-20250403 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250403)
     - [s390x-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250213)
     - [s390x-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240927)
-    - [s390x-linux-gnu.2.34-20240830 - RHEL 9.4](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240830)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
+    - [x86_64-linux-gnu.2.34-20250403 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250403)
     - [x86_64-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250213)
     - [x86_64-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240927)
-    - [x86_64-linux-gnu.2.34-20240830 - RHEL 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240830)
 
 #### RHEL 8.10 - GLIBC 2.28
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
@@ -128,9 +128,9 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250331)
     - [loongarch64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250318)
 - loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-14/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.41-20250425](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250425)
     - [loongarch64-linux-gnu.2.41-20250413](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250413)
     - [loongarch64-linux-gnu.2.41-20250330](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250330)
-    - [loongarch64-linux-gnu.2.41-20250316](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250316)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250412)
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
@@ -181,25 +181,36 @@ Early Stage Program
 - [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
 #### openEuler 24.03 LTS
+- [aarch64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250423)
 - [aarch64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250401)
 - [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
 - [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
+- [x86_64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250423)
 - [x86_64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
 
 #### SLES 15 (SP6+)
+- [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422)
 - [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
+- [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422-sles-15.6)
 - [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408-sles-15.6)
 - [aarch64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20250127)
+- [s390x-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250422)
 - [s390x-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408)
+- [s390x-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250422-sles-15.6)
 - [s390x-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408-sles-15.6)
 - [s390x-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31-20250127)
+- [x86_64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250422)
 - [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408)
+- [x86_64-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250422-sles-15.6)
 - [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408-sles-15.6)
 - [x86_64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31-20250127)
 
 #### Leap 15 SP6
+- [aarch64-linux-gnu.2.38-20250422 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250422)
 - [aarch64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250408)
+- [s390x-linux-gnu.2.38-20250422 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250422)
 - [s390x-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250408)
+- [x86_64-linux-gnu.2.38-20250422 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250422)
 - [x86_64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250408)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
@@ -214,5 +225,6 @@ Early Stage Program
 - [NetBSD -  9.4: aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.4)
 
 ## [OpenBSD](https://www.openbsd.org/faq/faq4.html#Download) sysroot
+- [OpenBSD - 7.7: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.7)
 - [OpenBSD - 7.6: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.6)
 - [OpenBSD - 7.5: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.5)
