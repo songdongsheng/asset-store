@@ -136,9 +136,9 @@ Early Stage Program
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
     - [riscv64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250318)
 - riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/trixie/linux-libc-dev), [glibc](https://packages.debian.org/testing/libc6) & [gcc](https://packages.debian.org/testing/gcc-14))
+    - [riscv64-linux-gnu.2.41-20250425](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250425)
     - [riscv64-linux-gnu.2.41-20250413](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250413)
     - [riscv64-linux-gnu.2.41-20250330](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250330)
-    - [riscv64-linux-gnu.2.41-20250314](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250314)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
     - [s390x-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20250412)
     - [s390x-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20250331)
@@ -182,36 +182,25 @@ Early Stage Program
 
 #### openEuler 24.03 LTS
 - [aarch64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250423)
-- [aarch64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250401)
 - [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
 - [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250423)
-- [x86_64-linux-gnu.2.38-20250401 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250401)
 
-#### SLES 15 (SP6+)
+#### SLES 15 SP6+
 - [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422)
-- [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408)
 - [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422-sles-15.6)
-- [aarch64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250408-sles-15.6)
 - [aarch64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20250127)
 - [s390x-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250422)
-- [s390x-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408)
 - [s390x-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250422-sles-15.6)
-- [s390x-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250408-sles-15.6)
 - [s390x-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31-20250127)
 - [x86_64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250422)
-- [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408)
 - [x86_64-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250422-sles-15.6)
-- [x86_64-linux-gnu.2.38-20250408 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250408-sles-15.6)
 - [x86_64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31-20250127)
 
 #### Leap 15 SP6
 - [aarch64-linux-gnu.2.38-20250422 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250422)
-- [aarch64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250408)
 - [s390x-linux-gnu.2.38-20250422 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250422)
-- [s390x-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250408)
 - [x86_64-linux-gnu.2.38-20250422 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250422)
-- [x86_64-linux-gnu.2.38-20250408 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250408)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
