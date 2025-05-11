@@ -36,16 +36,17 @@ Early Stage Program
 
 ## GnuPG
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
-    - [GnuPG 2.5.5 - 20250307](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.5.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.5)
-    - [GnuPG 2.5.4 - 20250212](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.4.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.4)
-    - [GnuPG 2.5.3 - 20250109](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.3.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.3)
+    - [GnuPG 2.5.6 - 20250508](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.6.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.6)
+    - [GnuPG 2.5.5 - 20250307](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.5.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.5)
+    - [GnuPG 2.5.4 - 20250212](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.4.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.4)
+    - [GnuPG 2.5.3 - 20250109](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.3.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.3)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
-    - [GnuPG 2.4.7 - 20241125](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.7.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.7)
-    - [GnuPG 2.4.6 - 20241029](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.6.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6)
+    - [GnuPG 2.4.7 - 20241125](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.7.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.7)
+    - [GnuPG 2.4.6 - 20241029](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.6.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
-    - [GnuPG 2.2.47 - 20250409](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.47/gnupg-2.2.47.tar.xz): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.47)
-    - [GnuPG 2.2.46 - 20250107](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.46/gnupg-2.2.46.tar.xz): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.46)
-    - [GnuPG 2.2.45 - 20241022](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.2.45.tar.bz2): [aarch64-linux-gnu.2.17+, x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.45)
+    - [GnuPG 2.2.47 - 20250409](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.47/gnupg-2.2.47.tar.xz): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.47)
+    - [GnuPG 2.2.46 - 20250107](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.46/gnupg-2.2.46.tar.xz): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.46)
+    - [GnuPG 2.2.45 - 20241022](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.2.45.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.45)
 
 ## Podman, Buildah and Skopeo
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
@@ -65,7 +66,7 @@ Early Stage Program
 - [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=8.10) (aarch64, x86_64), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/).
 - [OpenCloud OS 9.2 - glibc 2.38](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=9.2) (aarch64, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
 - [openEuler 22.03 - glibc 2.34](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=22.03) (aarch64, x86_64), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/).
-- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=24.03) (aarch64, **riscv64**, x86_64), the end of life date is [March 31, 2030](https://www.openeuler.org/en/other/lifecycle/).
+- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=24.03) (aarch64, **loongarch64**, **riscv64**, x86_64), the end of life date is [March 31, 2030](https://www.openeuler.org/en/other/lifecycle/).
 
 ## Linux sysroot
 
@@ -183,9 +184,11 @@ Early Stage Program
 - [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
 #### openEuler 24.03 LTS
+- [aarch64-linux-gnu.2.38-20250507 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250507)
 - [aarch64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250423)
 - [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
 - [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
+- [x86_64-linux-gnu.2.38-20250507 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250507)
 - [x86_64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250423)
 
 #### SLES 15 SP6+
