@@ -24,9 +24,11 @@ Early Stage Program
 
 ## Clang + LLVM
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/main)
-    - 📁[Clang + LLVM 21.0.0 - 20250509](https://github.com/llvm/llvm-project/commit/45cd708184e114bb771330d51ec552f7f674ffa0): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
+    - 📁[Clang + LLVM 21.0.0 - 20250515](https://github.com/llvm/llvm-project/commit/ed572aaac8b142a7bf09a235f5497bc7e201f7620): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
-    - 📁[Clang + LLVM 20.1.5 - 20250513](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.5): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.5).
+    - 📁[Clang + LLVM 20.1.7 - 20250610](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.7): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.7).
+    - 📁[Clang + LLVM 20.1.6 - 20250527](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.6): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.6).
+    - ✅[Clang + LLVM 20.1.5 - 20250513](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.5): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.5).
     - ✅[Clang + LLVM 20.1.4 - 20250429](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.4): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.4).
     - ✅[Clang + LLVM 20.1.3 - 20250416](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.3): [(aarch64|x86_64)-linux-gnu.2.17+ and Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.3).
 - [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
@@ -36,7 +38,7 @@ Early Stage Program
 
 ## GnuPG
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
-    - [GnuPG 2.5.6 - 20250508](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.6.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.6)
+    - [GnuPG 2.5.6 - 20250508](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.6.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.6)
     - [GnuPG 2.5.5 - 20250307](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.5.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.5)
     - [GnuPG 2.5.4 - 20250212](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.4.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.4)
     - [GnuPG 2.5.3 - 20250109](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.3.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.3)
@@ -64,7 +66,7 @@ Early Stage Program
 - [Anolis OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.10) (aarch64, x86_64), the end of life date is [March 31, 2031](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
 - [Anolis OS 23.2 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.2) (aarch64, **loongarch64**, x86_64), the end of life date is [June 30, 2030](https://gitee.com/anolis/rnotes/blob/master/anolis/policy/life-cycle.md).
 - [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=8.10) (aarch64, x86_64), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/).
-- [OpenCloud OS 9.2 - glibc 2.38](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=9.2) (aarch64, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
+- [OpenCloud OS 9.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=9.4) (aarch64, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/).
 - [openEuler 22.03 - glibc 2.34](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=22.03) (aarch64, x86_64), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/).
 - [openEuler 24.03 - glibc 2.38](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=24.03) (aarch64, **loongarch64**, **riscv64**, x86_64), the end of life date is [March 31, 2030](https://www.openeuler.org/en/other/lifecycle/).
 
@@ -73,17 +75,17 @@ Early Stage Program
 ### RHEL [release dates](https://access.redhat.com/articles/3078) & [life cycle](https://access.redhat.com/support/policy/updates/errata/)
 #### RHEL 9 - GLIBC 2.34
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
+    - [aarch64-linux-gnu.2.34-20250408 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250408)
     - [aarch64-linux-gnu.2.34-20250403 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250403)
     - [aarch64-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250213)
-    - [aarch64-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20240927)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
+    - [s390x-linux-gnu.2.34-20250408 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250408)
     - [s390x-linux-gnu.2.34-20250403 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250403)
     - [s390x-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250213)
-    - [s390x-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20240927)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
+    - [x86_64-linux-gnu.2.34-20250408 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250408)
     - [x86_64-linux-gnu.2.34-20250403 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250403)
     - [x86_64-linux-gnu.2.34-20250213 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250213)
-    - [x86_64-linux-gnu.2.34-20240927 - RHEL 9.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20240927)
 
 #### RHEL 8.10 - GLIBC 2.28
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
@@ -139,9 +141,9 @@ Early Stage Program
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
     - [riscv64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250318)
 - riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/trixie/linux-libc-dev), [glibc](https://packages.debian.org/testing/libc6) & [gcc](https://packages.debian.org/testing/gcc-14))
+    - [riscv64-linux-gnu.2.41-20250506](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250506)
     - [riscv64-linux-gnu.2.41-20250425](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250425)
     - [riscv64-linux-gnu.2.41-20250413](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250413)
-    - [riscv64-linux-gnu.2.41-20250330](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250330)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
     - [s390x-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20250412)
     - [s390x-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20250331)
@@ -180,7 +182,9 @@ Early Stage Program
 - [x86_64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.2-20250327)
 
 #### OpenCloud OS 9
+- [aarch64-linux-gnu.2.38-20250417 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4-20250417)
 - [aarch64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.2-20250330)
+- [x86_64-linux-gnu.2.38-20250417 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4-20250417)
 - [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
 #### openEuler 24.03 LTS
@@ -191,7 +195,7 @@ Early Stage Program
 - [x86_64-linux-gnu.2.38-20250507 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250507)
 - [x86_64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250423)
 
-#### SLES 15 SP6+
+#### [SLES 15 SP6+](https://www.suse.com/support/kb/doc/?id=000019587)
 - [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422)
 - [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422-sles-15.6)
 - [aarch64-linux-gnu.2.31-20250127 - SLES 15 SP5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20250127)
