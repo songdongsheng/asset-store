@@ -132,9 +132,9 @@ Early Stage Program
     - [loongarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250331)
     - [loongarch64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250318)
 - loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-14/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.41-20250517](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250517)
     - [loongarch64-linux-gnu.2.41-20250506](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250506)
     - [loongarch64-linux-gnu.2.41-20250425](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250425)
-    - [loongarch64-linux-gnu.2.41-20250413](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250413)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250412)
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
@@ -187,10 +187,12 @@ Early Stage Program
 - [x86_64-linux-gnu.2.38-20250330 - OpenCloud OS 9.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.2-20250330)
 
 #### openEuler 24.03 LTS
+- [aarch64-linux-gnu.2.38-20250514 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250514)
 - [aarch64-linux-gnu.2.38-20250507 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250507)
 - [aarch64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250423)
 - [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
 - [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
+- [x86_64-linux-gnu.2.38-20250514 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250514)
 - [x86_64-linux-gnu.2.38-20250507 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250507)
 - [x86_64-linux-gnu.2.38-20250423 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250423)
 
