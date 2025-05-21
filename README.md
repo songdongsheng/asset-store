@@ -10,6 +10,7 @@ Early Stage Program
     - [gcc 15.0.1 - 20250411](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=3b33d792cf1e4d2ea3d36d3ad403cbb452243cd8): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250411)
     - [gcc 15.0.1 - 20250120](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250120)
 - [GCC](https://gcc.gnu.org/gcc-14/changes.html) - [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
+    - [gcc 14.2.1 - 20250520](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8a6e2f71484abbf0d14c6db8e672576fad7492c8): [**riscv64-linux-gnu.2.28+ (native programs)**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250520-riscv64)
     - [gcc 14.2.1 - 20250425](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2a9fd7eca8a4ece58821d60787c045f38b466812): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250425)
     - [gcc 14.2.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=a82352a2a074230d841a3944e30bd497726e0bfa): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250121)
     - [gcc 14.2.1 - 20250116](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=7df6af205f5c9853c4d70b5b8172b0483179c891): [**This build is all native programs, not cross-compilation tools**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250116)
