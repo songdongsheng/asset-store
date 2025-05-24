@@ -74,6 +74,29 @@ Early Stage Program
 ## Linux sysroot
 
 ### RHEL [release dates](https://access.redhat.com/articles/3078) & [life cycle](https://access.redhat.com/support/policy/updates/errata/)
+#### RHEL 10 - GLIBC 2.39
+<!---
+podman run --rm -it --platform linux/$(uname -m) registry.access.redhat.com/ubi10
+
+dnf --color always install -y binutils cpio file gcc-c++ less libxcrypt-devel tar vim xz
+
+SOURCE_DATE_EPOCH=$(rpm -q --qf="%{BUILDTIME}\n" \
+    glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel | sort -n | tail -1); \
+SOURCE_DATE="$(date --utc --date="@${SOURCE_DATE_EPOCH}" +%Y%m%d)"
+echo "SOURCE_DATE: ${SOURCE_DATE} (${SOURCE_DATE_EPOCH})"
+
+source /etc/os-release; echo "Build from ${ID^^} ${VERSION_ID}"; echo "Build from ${REDHAT_SUPPORT_PRODUCT,,} ${VERSION_ID}"
+
+cd $(mktemp -d); BUILD_SYS_ROOT=`pwd`; \
+dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly --downloaddir=. \
+    glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
+-->
+- [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
+    - [aarch64-linux-gnu.2.39-20250513 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250513)
+- [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
+    - [s390x-linux-gnu.2.39-20250513 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250513)
+- [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
+    - [x86_64-linux-gnu.2.39-20250513 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250513)
 #### RHEL 9 - GLIBC 2.34
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
     - [aarch64-linux-gnu.2.34-20250513 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250513)
@@ -93,9 +116,9 @@ Early Stage Program
     - [aarch64-linux-gnu.2.28-20250418 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250418)
     - [aarch64-linux-gnu.2.28-20250415 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250415)
     - [aarch64-linux-gnu.2.28-20250304 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250304)
+    - [aarch64-linux-gnu.2.28-20250523 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250523)
     - [aarch64-linux-gnu.2.28-20250515 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250515)
     - [aarch64-linux-gnu.2.28-20250225 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250225)
-    - [aarch64-linux-gnu.2.28-20250214 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250214)
     - [aarch64-linux-gnu.2.28-20250505 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250505)
     - [aarch64-linux-gnu.2.28-20250328 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250328)
     - [aarch64-linux-gnu.2.28-20250321 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20250321)
@@ -107,9 +130,9 @@ Early Stage Program
     - [x86_64-linux-gnu.2.28-20250418 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250418)
     - [x86_64-linux-gnu.2.28-20250415 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250415)
     - [x86_64-linux-gnu.2.28-20250304 - OpenCloud OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250304)
+    - [x86_64-linux-gnu.2.28-20250523 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250523)
     - [x86_64-linux-gnu.2.28-20250515 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250515)
     - [x86_64-linux-gnu.2.28-20250225 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250225)
-    - [x86_64-linux-gnu.2.28-20250214 - Anolis OS 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250214)
     - [x86_64-linux-gnu.2.28-20250505 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250505)
     - [x86_64-linux-gnu.2.28-20250328 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250328)
     - [x86_64-linux-gnu.2.28-20250321 - RHEL 8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20250321)
