@@ -3,6 +3,7 @@ Early Stage Program
 
 ## GCC
 - [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
+    - [gcc 16.0.0 - 20250524](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=34efa442016e3fd2139da9cdbbf49913d73d8bc3): [riscv64-linux-gnu.2.28+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250524-riscv64)
     - [gcc 16.0.0 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f962f594e9006651379dafc9ef039be9654e6291): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250427-x86_64)
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
     - [gcc 15.1.1 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0839c77b83c673aa5970c83c5dcaa03147d54362): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.1-20250427-x86_64)
@@ -45,6 +46,7 @@ Early Stage Program
     - [GnuPG 2.5.4 - 20250212](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.4.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.4)
     - [GnuPG 2.5.3 - 20250109](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.3.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.3)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
+    - [GnuPG 2.4.8 - 20250514](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.8)
     - [GnuPG 2.4.7 - 20241125](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.7.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.7)
     - [GnuPG 2.4.6 - 20241029](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.6.tar.bz2): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.6)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
