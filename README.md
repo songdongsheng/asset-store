@@ -3,6 +3,7 @@ Early Stage Program
 
 ## GCC
 <!--
+git diff --word-diff --word-diff-regex='[[:alnum:]]+|[^[:space:]]'
 📁🔄🔃🌀⏳✅
 This build is all native programs, not cross-compilation tools
     (aarch64|riscv64|x86_64)-linux-gnu  -> gcc-14.3.0
@@ -17,10 +18,10 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
     - [gcc 16.0.0 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f962f594e9006651379dafc9ef039be9654e6291): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250427-x86_64)
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
     - [gcc 15.1.1 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0839c77b83c673aa5970c83c5dcaa03147d54362): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.1-20250427-x86_64)
-    - [**gcc 15.1.0 - 20250425**](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=1b306039ac49f8ad91ca71d3de3150a3c9fa792a): [**(⏳aarch64|✅riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.0) and ✅[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.0-x86_64)
+    - [**gcc 15.1.0 - 20250425**](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=1b306039ac49f8ad91ca71d3de3150a3c9fa792a): [**(⏳aarch64|✅riscv64|✅x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.0) and ✅[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.0-x86_64)
     - [gcc 15.0.1 - 20250120](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2fcb0c079530b019586e5693f057d2eb72855e70): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.0.1-20250120)
 - [GCC](https://gcc.gnu.org/gcc-14/changes.html) - [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
-    - [gcc 14.3.0 - 20250523](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8a6e2f71484abbf0d14c6db8e672576fad7492c8): [**(⏳aarch64|✅riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0-x86_64)
+    - [gcc 14.3.0 - 20250523](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8a6e2f71484abbf0d14c6db8e672576fad7492c8): [**(⏳aarch64|✅riscv64|✅x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0-x86_64)
     - [gcc 14.2.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=a82352a2a074230d841a3944e30bd497726e0bfa): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250121)
 - [GCC](https://gcc.gnu.org/gcc-13/changes.html) - [13.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-13)
     - [gcc 13.3.1 - 20250425](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=12ceee15bacc2a59e546730a317ce38397066b3b): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250425)
@@ -66,7 +67,7 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
-- ⏳[20250522 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250522) - [Buildah](https://github.com/containers/buildah/releases) 1.40.0, [Podman](https://github.com/containers/podman/releases) 5.5.0 and [Skopeo](https://github.com/containers/skopeo/releases) **1.19.0**
+- ✅[20250522 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250522) - [Buildah](https://github.com/containers/buildah/releases) 1.40.0, [Podman](https://github.com/containers/podman/releases) 5.5.0 and [Skopeo](https://github.com/containers/skopeo/releases) **1.19.0**
 - ✅[20250513 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250513) - [Buildah](https://github.com/containers/buildah/releases) 1.40.0, [Podman](https://github.com/containers/podman/releases) **5.5.0** and [Skopeo](https://github.com/containers/skopeo/releases) 1.18.0
 
 ## Linux containers
