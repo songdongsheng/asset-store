@@ -140,6 +140,64 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.17-20240514 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240514)
     - [x86_64-linux-gnu.2.17-20240502 - RHEL 7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.17-20240502)
 
+### SLES [release dates](https://en.wikipedia.org/wiki/SUSE_Linux_Enterprise) & [life cycle](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
+#### [SLES 16](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
+- [aarch64-linux-gnu.2.40 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-sles)
+    - [aarch64-linux-gnu.2.40-20250508](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-sles-20250508)
+- [s390x-linux-gnu.2.40 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-sles)
+    - [s390x-linux-gnu.2.40-20250508](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-sles-20250508)
+- [x86_64-linux-gnu.2.40 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-sles)
+    - [x86_64-linux-gnu.2.40-20250508](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-sles-20250508)
+
+#### [SLES 15 SP7](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
+- [aarch64-linux-gnu.2.38-sles - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles)
+    - [aarch64-linux-gnu.2.38-20250422](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-20250422)
+- [s390x-linux-gnu.2.38-sles - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles)
+    - [s390x-linux-gnu.2.38-20250422](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-20250422)
+- [x86_64-linux-gnu.2.38-sles - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles)
+  - [x86_64-linux-gnu.2.38-20250422](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-20250422)
+
+#### [SLES 15 SP6](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
+- [aarch64-linux-gnu.2.38-sles-15.6 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.6)
+    - [aarch64-linux-gnu.2.38-20250519](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.6-20250519)
+- [s390x-linux-gnu.2.38-sles-15.6 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.6)
+    - [s390x-linux-gnu.2.38-20250519](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.6-20250519)
+- [x86_64-linux-gnu.2.38-sles-15.6 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.6)
+    - [x86_64-linux-gnu.2.38-20250519](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.6-20250519)
+
+#### [Leap 16](https://en.opensuse.org/openSUSE:Roadmap)
+- [aarch64-linux-gnu.2.40 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-leap)
+    - [aarch64-linux-gnu.2.40-20250508](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-leap-20250508)
+- [s390x-linux-gnu.2.40 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-leap)
+    - [s390x-linux-gnu.2.40-20250508](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-leap-20250508)
+- [x86_64-linux-gnu.2.40 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-leap)
+    - [x86_64-linux-gnu.2.40-20250508](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-leap-20250508)
+
+#### [Leap 15](https://en.opensuse.org/Lifetime)
+- [aarch64-linux-gnu.2.38 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap)
+    - [aarch64-linux-gnu.2.38-20250519](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-20250519)
+- [s390x-linux-gnu.2.38 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap)
+    - [s390x-linux-gnu.2.38-20250519](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-20250519)
+- [x86_64-linux-gnu.2.38 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap)
+    - [x86_64-linux-gnu.2.38-20250519](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-20250519)
+
+### Linux distribution based on GLIBC 2.38
+#### Anolis OS 23
+- [aarch64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.2-20250327)
+- [loongarch64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.2-20250327)
+- [x86_64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.2-20250327)
+
+#### OpenCloud OS 9
+- [aarch64-linux-gnu.2.38-20250417 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4-20250417)
+- [loongarch64-linux-gnu.2.38-20250416 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-opencloud-9.4-20250416)
+- [x86_64-linux-gnu.2.38-20250417 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4-20250417)
+
+#### openEuler 24.03 LTS
+- [aarch64-linux-gnu.2.38-20250604 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250604)
+- [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
+- [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
+- [x86_64-linux-gnu.2.38-20250604 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250604)
+
 ### Performance-optimized
 #### GLIBC [2.41](https://github.com/bminor/glibc/commits/release/2.41/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
 - aarch64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe)
@@ -182,36 +240,6 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - ⏳[s390x-linux-gnu.2.38-xe-20250521](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-xe-20250521)
 - x86_64-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe)
     - ⏳[x86_64-linux-gnu.2.38-xe-20250521](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20250521)
-
-### Linux distribution based on GLIBC 2.38
-#### Anolis OS 23
-- [aarch64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.2-20250327)
-- [loongarch64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.2-20250327)
-- [x86_64-linux-gnu.2.38-20250327 - Anolis OS 23](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.2-20250327)
-
-#### OpenCloud OS 9
-- [aarch64-linux-gnu.2.38-20250417 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4-20250417)
-- [loongarch64-linux-gnu.2.38-20250416 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-opencloud-9.4-20250416)
-- [x86_64-linux-gnu.2.38-20250417 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4-20250417)
-
-#### openEuler 24.03 LTS
-- [aarch64-linux-gnu.2.38-20250604 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20250604)
-- [loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
-- [riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
-- [x86_64-linux-gnu.2.38-20250604 - openEuler 24.03 (LTS-SP1)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20250604)
-
-#### [SLES 15 SP6+](https://www.suse.com/support/kb/doc/?id=000019587)
-- [aarch64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250422)
-- [aarch64-linux-gnu.2.38-20250519 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-20250519-sles-15.6)
-- [s390x-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250422)
-- [s390x-linux-gnu.2.38-20250519 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-20250519-sles-15.6)
-- [x86_64-linux-gnu.2.38-20250422 - SLES 15 SP7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250422)
-- [x86_64-linux-gnu.2.38-20250519 - SLES 15 SP6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-20250519-sles-15.6)
-
-#### Leap 15 SP6
-- [aarch64-linux-gnu.2.38-20250519 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-leap-15.6-20250519)
-- [s390x-linux-gnu.2.38-20250519 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-leap-15.6-20250519)
-- [x86_64-linux-gnu.2.38-20250519 - Leap 15.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-leap-15.6-20250519)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - 14.2: aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
