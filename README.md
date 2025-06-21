@@ -161,11 +161,11 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [SLES 15 SP7](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
 - [aarch64-linux-gnu.2.38-sles-15.7 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7)
-    - [aarch64-linux-gnu.2.38-sles-15.7-20250422](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7-20250422)
+    - [aarch64-linux-gnu.2.38-sles-15.7-20250519](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7-20250519)
 - [s390x-linux-gnu.2.38-sles-15.7 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7)
-    - [s390x-linux-gnu.2.38-sles-15.7-20250422](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7-20250422)
+    - [s390x-linux-gnu.2.38-sles-15.7-20250519](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7-20250519)
 - [x86_64-linux-gnu.2.38-sles-15.7 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7)
-  - [x86_64-linux-gnu.2.38-sles-15.7-20250422](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7-20250422)
+  - [x86_64-linux-gnu.2.38-sles-15.7-20250519](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7-20250519)
 
 #### [SLES 15 SP6](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
 - [aarch64-linux-gnu.2.38-sles-15.6 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.6)
