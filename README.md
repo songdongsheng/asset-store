@@ -70,7 +70,7 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
-- [20250624 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250605) - [Buildah](https://github.com/containers/buildah/releases) 1.40.1, [Podman](https://github.com/containers/podman/releases) **5.5.2**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.19.0
+- [20250624 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250624) - [Buildah](https://github.com/containers/buildah/releases) 1.40.1, [Podman](https://github.com/containers/podman/releases) **5.5.2**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.19.0
 - [20250605 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250605) - [Buildah](https://github.com/containers/buildah/releases) **1.40.1**, [Podman](https://github.com/containers/podman/releases) **5.5.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.19.0
 
 ## Linux containers
