@@ -15,8 +15,8 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
     x86_64-linux-gnu.2.17               -> gcc-14.3.0-x86_64
 -->
 - [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
-    - [gcc 16.0.0 - 20250624](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=bf7162b321128ba93521a824e5a7a00d1cc3d1f8): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250624-x86_64)
-    - [gcc 16.0.0 - 20250619](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=48c52af0cd85a2e702ff90c7ba6b70daf7f4b171): [**(⏳aarch64|⏳riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-x86_64)
+    - [gcc 16.0.0 - 20250721](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=7fd6cb3c8488465ae0529f543f5309584961503d): [**(⏳aarch64|⏳riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-x86_64)
+    - [gcc 16.0.0 - 20250625](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0c701c7d5fb95681c6d4accfbd6382e99ebf0e82): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250625-x86_64)
     - [gcc 16.0.0 - 20250524](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=34efa442016e3fd2139da9cdbbf49913d73d8bc3): [riscv64-linux-gnu.2.28+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250524-riscv64)
     - [gcc 16.0.0 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f962f594e9006651379dafc9ef039be9654e6291): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250427-x86_64)
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
@@ -35,7 +35,6 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
     - [gcc 12.5.0 - 20250711](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8bdbd3b73464f7b12b7d31af91660381be2b5e17): [**(⏳aarch64|⏳riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.5.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.5.0-x86_64)
     - [gcc 12.4.1 - 20250624](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=d6159c3949cd85d96ac422a18129577c7ef9fbd9): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250624-x86_64)
     - [gcc 12.4.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=4d320a7df4b25c2eb060a2a16fee8b993301be55): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250121)
-    - [gcc 12.4.1 - 20250114](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=3911b6366ee49dffe2f16578093b49664b3a2d72): [**This build is all native programs, not cross-compilation tools**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250114)
 
 ## Clang + LLVM
 <!--
@@ -45,7 +44,7 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 7b09d7b44                   ->  47addd454                   ->  6146a88f6
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/main)
-    - 📁[Clang + LLVM 21.0.0 - 20250619](https://github.com/llvm/llvm-project/commit/6273c5d4d3540204cb0d298cf1cf74ba94ed2a6c): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
+    - ⏳[Clang + LLVM 21.0.0 - 20250625](https://github.com/llvm/llvm-project/commit/948cc91188e5a2d60917ff5bc953987a80a3949c): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
     - ⏳[Clang + LLVM 20.1.7 - 20250613](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.7): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.7).
     - ⏳[Clang + LLVM 20.1.6 - 20250527](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.6): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.6).
@@ -54,11 +53,10 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
     - ✅[Clang + LLVM 20.1.3 - 20250416](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.3): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.3).
 - [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
     - ✅[Clang + LLVM 19.1.7 - 20250114](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.7): [✅aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-aarch64), [✅x86_64-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-x86_64).
-- [Clang](https://releases.llvm.org/18.1.8/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/18.1.8/tools/clang/docs/ReleaseNotes.html) - [18.x](https://github.com/llvm/llvm-project/commits/release/18.x)
-    - ✅[Clang + LLVM 18.1.8 - 20240619](https://github.com/llvm/llvm-project/releases/tag/llvmorg-18.1.8): [✅x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-18.1.8)
 
 ## GnuPG
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.8 - 20250620](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.8)
     - [GnuPG 2.5.7 - 20250602](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.7.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.7)
     - [GnuPG 2.5.6 - 20250508](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.6.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.6)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
@@ -72,7 +70,8 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
-- ✅[20250605 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250605) - [Buildah](https://github.com/containers/buildah/releases) **1.40.1**, [Podman](https://github.com/containers/podman/releases) **5.5.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.19.0
+- [20250624 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250605) - [Buildah](https://github.com/containers/buildah/releases) 1.40.1, [Podman](https://github.com/containers/podman/releases) **5.5.2**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.19.0
+- [20250605 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250605) - [Buildah](https://github.com/containers/buildah/releases) **1.40.1**, [Podman](https://github.com/containers/podman/releases) **5.5.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.19.0
 
 ## Linux containers
 - [QEMU user mode emulation](https://hub.docker.com/r/songdongsheng/qemu-user-static/tags), built from debian testing package [qemu-user](https://packages.debian.org/sid/qemu-user).
