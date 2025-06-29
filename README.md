@@ -32,7 +32,7 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
     - [gcc 13.4.0 - 20250523](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=99677969d463d75a562f94460ea75e9f6a016b4f): [**(⏳aarch64|✅riscv64|✅x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.0) and ✅[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.0-x86_64)
     - [gcc 13.3.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=24291f6e40e4b37954b368361fc97fc8fb1bf864): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250121)
 - [GCC](https://gcc.gnu.org/gcc-12/changes.html) - [12.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-12)
-    - [gcc 12.5.0 - 20250711](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8bdbd3b73464f7b12b7d31af91660381be2b5e17): [**(⏳aarch64|⏳riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.5.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.5.0-x86_64)
+    - [gcc 12.5.0 - 20250711](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8bdbd3b73464f7b12b7d31af91660381be2b5e17): [**(⏳aarch64|✅riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.5.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.5.0-x86_64)
     - [gcc 12.4.1 - 20250624](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=d6159c3949cd85d96ac422a18129577c7ef9fbd9): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250624-x86_64)
     - [gcc 12.4.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=4d320a7df4b25c2eb060a2a16fee8b993301be55): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-12.4.1-20250121)
 
@@ -236,7 +236,7 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
     - [riscv64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250318)
 - riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/trixie/linux-libc-dev), [glibc](https://packages.debian.org/testing/libc6) & [gcc](https://packages.debian.org/testing/gcc-14))
-    - [riscv64-linux-gnu.2.41-20250618](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250618)
+    - [riscv64-linux-gnu.2.41-20250619](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250619)
     - [riscv64-linux-gnu.2.41-20250609](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250609)
     - [riscv64-linux-gnu.2.41-20250528](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250528)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
