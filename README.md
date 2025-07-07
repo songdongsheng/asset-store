@@ -162,10 +162,13 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 ### SLES [release dates](https://en.wikipedia.org/wiki/SUSE_Linux_Enterprise) & [life cycle](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
 #### [SLES 16](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
 - [aarch64-linux-gnu.2.40-sles-16.0 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-sles-16.0)
+    - [aarch64-linux-gnu.2.40-sles-16.0-20250617](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-sles-16.0-20250617)
     - [aarch64-linux-gnu.2.40-sles-16.0-20250604](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-sles-16.0-20250604)
 - [s390x-linux-gnu.2.40-sles-16.0 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-sles-16.0)
+    - [s390x-linux-gnu.2.40-sles-16.0-20250617](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-sles-16.0-20250617)
     - [s390x-linux-gnu.2.40-sles-16.0-20250604](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-sles-16.0-20250604)
 - [x86_64-linux-gnu.2.40-sles-16.0 - rolling](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-sles-16.0)
+    - [x86_64-linux-gnu.2.40-sles-16.0-20250617](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-sles-16.0-20250617)
     - [x86_64-linux-gnu.2.40-sles-16.0-20250604](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-sles-16.0-20250604)
 
 #### [SLES 15 SP7](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
