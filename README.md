@@ -15,7 +15,7 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
     x86_64-linux-gnu.2.17               -> gcc-14.3.0-x86_64
 -->
 - [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
-    - [gcc 16.0.0 - 20250721](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=4d7baa94a48c27030c8ffcfaf3dd187be09903a9): [**(⏳aarch64|⏳riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-x86_64)
+    - [gcc 16.0.0 - 20250721](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=3fbed69502770851c8a5bfece99e9ee8c6d9e4b0): [**(⏳aarch64|⏳riscv64|⏳x86_64)-linux-gnu**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0) and ⏳[**x86_64-linux-gnu.2.17+**](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-x86_64)
     - [gcc 16.0.0 - 20250625](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0c701c7d5fb95681c6d4accfbd6382e99ebf0e82): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250625-x86_64)
     - [gcc 16.0.0 - 20250524](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=34efa442016e3fd2139da9cdbbf49913d73d8bc3): [riscv64-linux-gnu.2.28+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250524-riscv64)
     - [gcc 16.0.0 - 20250427](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=f962f594e9006651379dafc9ef039be9654e6291): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250427-x86_64)
@@ -43,23 +43,21 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 2025-05-13 22:18:22         ->  2025-05-27 22:33:46         ->  2025-06-13 04:54:32         ->  2025-07-08 23:06:32
 7b09d7b44                   ->  47addd454                   ->  6146a88f6                   ->  87f0227cb
 -->
-- [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/main)
-    - ⏳[Clang + LLVM 21.0.0 - **rolling**](https://github.com/llvm/llvm-project/commit/948cc91188e5a2d60917ff5bc953987a80a3949c): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
+- [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/main)
+    - ⏳[Clang + LLVM 22.0.0 - **rolling**](https://github.com/llvm/llvm-project/commit/bc2004c2e42f633ee4099ea5652df41dba29c79c): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0).
+- [Clang](https://releases.llvm.org/21.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/21.1.0/tools/clang/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/release/21.x)
+    - ⏳[Clang + LLVM 21.1.0 - **rolling**](https://github.com/llvm/llvm-project/commit/6296ebd45d3f916bea6bf434c1b5580441f9234a): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.0).
+    - ⏳[Clang + LLVM 21.0.0 - 20250625](https://github.com/llvm/llvm-project/commit/948cc91188e5a2d60917ff5bc953987a80a3949c): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
     - ✅[Clang + LLVM 20.1.8 - 20250708](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.8): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.8).
     - ✅[Clang + LLVM 20.1.7 - 20250613](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.7): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.7).
     - ✅[Clang + LLVM 20.1.6 - 20250527](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.6): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.6).
-    - ✅[Clang + LLVM 20.1.5 - 20250513](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.5): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.5).
-    - ✅[Clang + LLVM 20.1.4 - 20250429](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.4): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.4).
-    - ✅[Clang + LLVM 20.1.3 - 20250416](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.3): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.3).
-- [Clang](https://releases.llvm.org/19.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/19.1.0/docs/ReleaseNotes.html) - [19.x](https://github.com/llvm/llvm-project/commits/release/19.x)
-    - ✅[Clang + LLVM 19.1.7 - 20250114](https://github.com/llvm/llvm-project/releases/tag/llvmorg-19.1.7): [✅aarch64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-aarch64), [✅x86_64-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-19.1.7-x86_64).
 
 ## GnuPG
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.9 - 20250710](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.9.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.9)
     - [GnuPG 2.5.8 - 20250620](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.8)
     - [GnuPG 2.5.7 - 20250602](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.7.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.7)
-    - [GnuPG 2.5.6 - 20250508](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.6.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.6)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
     - [GnuPG 2.4.8 - 20250514](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.8)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
@@ -106,30 +104,30 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
 -->
 - [aarch64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
+    - [aarch64-linux-gnu.2.39-20250707 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250707)
     - [aarch64-linux-gnu.2.39-20250630 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250630)
     - [aarch64-linux-gnu.2.39-20250623 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250623)
-    - [aarch64-linux-gnu.2.39-20250616 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250616)
 - [s390x-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
+    - [s390x-linux-gnu.2.39-20250707 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250707)
     - [s390x-linux-gnu.2.39-20250630 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250630)
     - [s390x-linux-gnu.2.39-20250623 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250623)
-    - [s390x-linux-gnu.2.39-20250616 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250616)
 - [x86_64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
+    - [x86_64-linux-gnu.2.39-20250707 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250707)
     - [x86_64-linux-gnu.2.39-20250630 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250630)
     - [x86_64-linux-gnu.2.39-20250623 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250623)
-    - [x86_64-linux-gnu.2.39-20250616 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250616)
 #### RHEL 9 - GLIBC 2.34
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
+    - [aarch64-linux-gnu.2.34-20250705 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250705)
     - [aarch64-linux-gnu.2.34-20250628 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250628)
     - [aarch64-linux-gnu.2.34-20250621 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250621)
-    - [aarch64-linux-gnu.2.34-20250614 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20250614)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
+    - [s390x-linux-gnu.2.34-20250705 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250705)
     - [s390x-linux-gnu.2.34-20250628 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250628)
     - [s390x-linux-gnu.2.34-20250621 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250621)
-    - [s390x-linux-gnu.2.34-20250614 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20250614)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
+    - [x86_64-linux-gnu.2.34-20250705 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250705)
     - [x86_64-linux-gnu.2.34-20250628 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250628)
     - [x86_64-linux-gnu.2.34-20250621 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250621)
-    - [x86_64-linux-gnu.2.34-20250614 - RHEL 9.6](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20250614)
 
 #### RHEL 8.10 - GLIBC 2.28
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
@@ -273,15 +271,15 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### GLIBC [2.38](https://github.com/bminor/glibc/commits/release/2.38/master) with [GCC](https://gcc.gnu.org/gcc-14/changes.html) [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
 - aarch64-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-xe)
-    - ⏳[aarch64-linux-gnu.2.38-xe-20250620](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-xe-20250620)
+    - ⏳[aarch64-linux-gnu.2.38-xe-20250711](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-xe-20250711)
 - loongarch64-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-xe)
-    - ⏳[loongarch64-linux-gnu.2.38-xe-20250620](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-xe-20250620)
+    - ⏳[loongarch64-linux-gnu.2.38-xe-20250711](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-xe-20250711)
 - riscv64-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-xe)
-    - ⏳[riscv64-linux-gnu.2.38-xe-20250620](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-xe-20250620)
+    - ⏳[riscv64-linux-gnu.2.38-xe-20250711](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-xe-20250711)
 - s390x-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-xe)
-    - ⏳[s390x-linux-gnu.2.38-xe-20250620](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-xe-20250620)
+    - ⏳[s390x-linux-gnu.2.38-xe-20250711](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-xe-20250711)
 - x86_64-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe)
-    - ⏳[x86_64-linux-gnu.2.38-xe-20250620](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20250620)
+    - ⏳[x86_64-linux-gnu.2.38-xe-20250711](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20250711)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [FreeBSD - 14.3 (2025-06-10 ~ 2026-06-30): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.3)
