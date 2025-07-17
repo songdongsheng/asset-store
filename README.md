@@ -44,9 +44,9 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 7b09d7b44                   ->  47addd454                   ->  6146a88f6                   ->  87f0227cb
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/main)
-    - ⏳[Clang + LLVM 22.0.0 - **rolling**](https://github.com/llvm/llvm-project/commit/bc2004c2e42f633ee4099ea5652df41dba29c79c): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0).
+    - ⏳[Clang + LLVM 22.0.0 - **rolling**](https://github.com/llvm/llvm-project/commit/f56211ebfa7f9ca71b9eeb119012b0f6e1a2b2c9): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0).
 - [Clang](https://releases.llvm.org/21.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/21.1.0/tools/clang/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/release/21.x)
-    - ⏳[Clang + LLVM 21.1.0 - **rolling**](https://github.com/llvm/llvm-project/commit/6296ebd45d3f916bea6bf434c1b5580441f9234a): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.0).
+    - ⏳[Clang + LLVM 21.1.0 - **rolling**](https://github.com/llvm/llvm-project/commit/a0895b4581bac8634596263b42d49c7f2e2d957f): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.0).
     - ⏳[Clang + LLVM 21.0.0 - 20250625](https://github.com/llvm/llvm-project/commit/948cc91188e5a2d60917ff5bc953987a80a3949c): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
     - ✅[Clang + LLVM 20.1.8 - 20250708](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.8): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.8).
@@ -104,15 +104,15 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
 -->
 - [aarch64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
-    - [aarch64-linux-gnu.2.39-20250707 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250707)
+    - [aarch64-linux-gnu.2.39-20250709 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250709)
     - [aarch64-linux-gnu.2.39-20250630 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250630)
     - [aarch64-linux-gnu.2.39-20250623 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20250623)
 - [s390x-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
-    - [s390x-linux-gnu.2.39-20250707 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250707)
+    - [s390x-linux-gnu.2.39-20250709 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250709)
     - [s390x-linux-gnu.2.39-20250630 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250630)
     - [s390x-linux-gnu.2.39-20250623 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20250623)
 - [x86_64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
-    - [x86_64-linux-gnu.2.39-20250707 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250707)
+    - [x86_64-linux-gnu.2.39-20250709 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250709)
     - [x86_64-linux-gnu.2.39-20250630 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250630)
     - [x86_64-linux-gnu.2.39-20250623 - RHEL 10.0](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20250623)
 #### RHEL 9 - GLIBC 2.34
