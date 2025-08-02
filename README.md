@@ -49,8 +49,8 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/main)
     - ⏳[Clang + LLVM 22.0.0 - **rolling**](https://github.com/llvm/llvm-project/commit/f56211ebfa7f9ca71b9eeb119012b0f6e1a2b2c9): [(⏳aarch64|⏳x86_64)-linux-gnu.2.17+ and ⏳Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0).
 - [Clang](https://releases.llvm.org/21.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/21.1.0/tools/clang/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/release/21.x)
-    - ⏳[Clang + LLVM 21.1.0 - **20250729**](https://github.com/llvm/llvm-project/commit/d8e9216c27b82b4292e83437d58aebf594adb111): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.0).
-    - ⏳[Clang + LLVM 21.0.0 - 20250625](https://github.com/llvm/llvm-project/commit/948cc91188e5a2d60917ff5bc953987a80a3949c): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
+    - ✅[Clang + LLVM 21.1.0 - **20250729**](https://github.com/llvm/llvm-project/commit/d8e9216c27b82b4292e83437d58aebf594adb111): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.0).
+    - ✅[Clang + LLVM 21.0.0 - 20250625](https://github.com/llvm/llvm-project/commit/948cc91188e5a2d60917ff5bc953987a80a3949c): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.0.0).
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
     - ✅[Clang + LLVM 20.1.8 - 20250708](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.8): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.8).
     - ✅[Clang + LLVM 20.1.7 - 20250613](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.7): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.7).
@@ -223,12 +223,15 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [OpenCloud OS 9 - 2033](https://docs.opencloudos.org/en/release/oc_intro/)
 - [aarch64-linux-gnu.2.38-opencloud-9.4 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4)
+    - [aarch64-linux-gnu.2.38-20250729 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4-20250729)
     - [aarch64-linux-gnu.2.38-20250707 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4-20250707)
     - [aarch64-linux-gnu.2.38-20250625 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4-20250625)
 - [loongarch64-linux-gnu.2.38-opencloud-9.4 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-opencloud-9.4)
+    - [loongarch64-linux-gnu.2.38-20250729 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-opencloud-9.4-20250729)
     - [loongarch64-linux-gnu.2.38-20250707 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-opencloud-9.4-20250707)
     - [loongarch64-linux-gnu.2.38-20250625 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-opencloud-9.4-20250625)
 - [x86_64-linux-gnu.2.38-opencloud-9.4 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4)
+    - [x86_64-linux-gnu.2.38-20250729 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4-20250729)
     - [x86_64-linux-gnu.2.38-20250707 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4-20250707)
     - [x86_64-linux-gnu.2.38-20250625 - OpenCloud OS 9.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-opencloud-9.4-20250625)
 
