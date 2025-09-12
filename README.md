@@ -12,11 +12,11 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
         gcc-15.2.0-x86_64-linux-gnu.2.17
 -->
 - [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
-    - [gcc 16.0.0 - 20250910](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=220e4d2df797c634e8975cb0a8e4598268f7bbe9): (**[⏳aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-aarch64-linux-gnu)|[⏳riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-riscv64-linux-gnu)|[⏳x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-x86_64-linux-gnu))-linux-gnu**
+    - [gcc 16.0.0 - 20250911](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=9b6df34aa5a4a8a805e1c08256608fd302cb3874): (**[⏳aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-aarch64-linux-gnu)|[⏳riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-riscv64-linux-gnu)|[⏳x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-x86_64-linux-gnu))-linux-gnu**
     - [gcc 16.0.0 - 20250625](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0c701c7d5fb95681c6d4accfbd6382e99ebf0e82): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250625-x86_64)
     - [gcc 16.0.0 - 20250524](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=34efa442016e3fd2139da9cdbbf49913d73d8bc3): [riscv64-linux-gnu.2.28+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.0-20250524-riscv64)
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
-    - [gcc 15.2.1 - 20250909](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=cf5495ba6850a76be18f04b246fdb525562a0ed2): (**[⏳aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-aarch64-linux-gnu)|[⏳riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-riscv64-linux-gnu)|[⏳x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-x86_64-linux-gnu))-linux-gnu**
+    - [gcc 15.2.1 - 20250911](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=1669dbb9363dadf7a52d9f1090f13fa33c680c6a): (**[⏳aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-aarch64-linux-gnu)|[⏳riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-riscv64-linux-gnu)|[⏳x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-x86_64-linux-gnu))-linux-gnu**
     - [gcc 15.2.0 - 20250808](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=5115c7e447fc07457443df874bf57840e8316d5f): (**[⏳aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.0-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.0-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.0-x86_64-linux-gnu))-linux-gnu**
     - [gcc 15.1.1 - 20250624](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=2e095cd5d42429dc440245bd765e32ee3a1729ad): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.1.1-20250624-x86_64)
 - [GCC](https://gcc.gnu.org/gcc-14/changes.html) - [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
@@ -34,6 +34,8 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 
 ## [Clang + LLVM](https://llvm.org/)
 <!--
+gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo songdongsheng/asset-store
+
 20.1.8-20250708-g87f0227cb        ->  21.1.1-20250909-g5a86dc996
 20.1.8                            ->  21.1.1
 2025-07-08 23:06:32 (1752015992)  ->  2025-09-09 08:37:15 (1757407035)
