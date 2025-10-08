@@ -37,10 +37,10 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 <!--
 gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo songdongsheng/asset-store
 
-20.1.8-20250708-g87f0227cb        ->  21.1.1-20250909-g5a86dc996
-20.1.8                            ->  21.1.1
-2025-07-08 23:06:32 (1752015992)  ->  2025-09-09 08:37:15 (1757407035)
-87f0227cb                         ->  5a86dc996
+2025-07-08 23:06:32 (1752015992)  ->  2025-09-09 08:37:15 (1757407035)  -> 2025-10-07 12:53:22 (1759841602)  -> 2025-10-21?
+20.1.8-20250708-g87f0227cb        ->  21.1.1-20250909-g5a86dc996        -> 21.1.3-20251007-g450f52eec        -> 21.1.4-20251021?
+20.1.8                            ->  21.1.1                            -> 21.1.3                            -> 21.1.4
+87f0227cb                         ->  5a86dc996                         -> 450f52eec                         -> ?
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/main)
     - [Clang + LLVM 22.0.0 - 20250918](https://github.com/llvm/llvm-project/commit/98ebb64a1639fa20e2cfa44bc796dfc28db1f691): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and 🧪Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0)
@@ -260,9 +260,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [loongarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250331)
     - [loongarch64-linux-gnu.2.41-xe-20250318](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250318)
 - loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-15/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.41-20251007](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251007)
     - [loongarch64-linux-gnu.2.41-20250927](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250927)
     - [loongarch64-linux-gnu.2.41-20250921](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250921)
-    - [loongarch64-linux-gnu.2.41-20250911](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20250911)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250412)
     - [riscv64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250331)
