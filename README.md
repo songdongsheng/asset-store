@@ -6,7 +6,7 @@ Early Stage Program
 git tag --contains 40b47c74ded17037962f075d28fb57d7e92d360d
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex="[^[:space:],-._]+"
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex='[[:alnum:]]+|[^[:space:]]'
-📁🔄🔃🌀⏳✅
+📁🔄🔃🌀⏳✅🧪
 For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools running on the **$(uname -m)-linux-gnu** host, not native programs!
         ln -s gcc-12.5.0-20250711-riscv64-linux-gnu.2.28.tar.xz     gcc-12.5.0-riscv64-linux-gnu.tar.xz
         ln -s gcc-13.4.1-20250918-riscv64-linux-gnu.2.28.tar.xz     gcc-13.4.1-riscv64-linux-gnu.tar.xz
@@ -43,8 +43,9 @@ gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo
 87f0227cb                         ->  5a86dc996                         -> 450f52eec                         -> ?
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/main)
-    - [Clang + LLVM 22.0.0 - 20250918](https://github.com/llvm/llvm-project/commit/98ebb64a1639fa20e2cfa44bc796dfc28db1f691): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and 🧪Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0)
+    - [Clang + LLVM 22.0.0 - 20251009](https://github.com/llvm/llvm-project/commit/233d1220f8c88b2b0ac8f281f8e63f15216ede38): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and 🧪Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0)
 - [Clang](https://releases.llvm.org/21.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/21.1.0/tools/clang/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/release/21.x)
+    - [Clang + LLVM 21.1.3 - 20251007](https://github.com/llvm/llvm-project/commit/450f52eec88f728c89a9efd667dbeaf2dad93826): [(✅aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.3)
     - [Clang + LLVM 21.1.1 - 20250909](https://github.com/llvm/llvm-project/commit/5a86dc996c26299de63effc927075dcbfb924167): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.1)
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
     - [Clang + LLVM 20.1.8 - 20250708](https://github.com/llvm/llvm-project/releases/tag/llvmorg-20.1.8): [✅x86_64-linux-gnu.2.17+ and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-20.1.8)
@@ -59,6 +60,7 @@ gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
     - [GnuPG 2.4.8 - 20250514](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.8)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
+    - [GnuPG 2.2.49 - 20250925](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.49/gnupg-2.2.49.tar.xz): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.49)
     - [GnuPG 2.2.48 - 20250807](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.48/gnupg-2.2.48.tar.xz): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.48)
     - [GnuPG 2.2.47 - 20250409](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.47/gnupg-2.2.47.tar.xz): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.47)
     - [GnuPG 2.2.46 - 20250107](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.46/gnupg-2.2.46.tar.xz): [(aarch64|x86_64)-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.46)
@@ -67,8 +69,8 @@ gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
-- [20250930 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250930) - [Buildah](https://github.com/containers/buildah/releases) **1.41.5**, [Podman](https://github.com/containers/podman/releases) **5.6.2**, and [Skopeo](https://github.com/containers/skopeo/releases) **1.20.0**
-- [20250904 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250904) - [Buildah](https://github.com/containers/buildah/releases) **1.41.4**, [Podman](https://github.com/containers/podman/releases) **5.6.1**, and [Skopeo](https://github.com/containers/skopeo/releases) **1.20.0**
+- [20250930 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250930) - [Buildah](https://github.com/containers/buildah/releases) **1.41.5**, [Podman](https://github.com/containers/podman/releases) **5.6.2**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.20.0
+- [20250904 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250904) - [Buildah](https://github.com/containers/buildah/releases) **1.41.4**, [Podman](https://github.com/containers/podman/releases) **5.6.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.20.0
 - [20250815 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250815) - [Buildah](https://github.com/containers/buildah/releases) **1.41.3**, [Podman](https://github.com/containers/podman/releases) **5.6.0**, and [Skopeo](https://github.com/containers/skopeo/releases) **1.20.0**
 
 ## Linux emulation & containers
