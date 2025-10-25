@@ -54,9 +54,9 @@ gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo
 
 ## [GnuPG](https://gnupg.org/download/index.html)
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.13 - 20251022](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.13.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.13)
     - [GnuPG 2.5.12 - 20250902](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.12.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.12)
     - [GnuPG 2.5.11 - 20250730](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.11.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.11)
-    - [GnuPG 2.5.9 - 20250710](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.9.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.9)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
     - [GnuPG 2.4.8 - 20250514](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.8)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
@@ -68,9 +68,9 @@ gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
+- [20251022 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20251022) - [Buildah](https://github.com/containers/buildah/releases) **1.42.0**, [Podman](https://github.com/containers/podman/releases) 5.6.2, and [Skopeo](https://github.com/containers/skopeo/releases) 1.20.0
 - [20250930 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250930) - [Buildah](https://github.com/containers/buildah/releases) **1.41.5**, [Podman](https://github.com/containers/podman/releases) **5.6.2**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.20.0
 - [20250904 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250904) - [Buildah](https://github.com/containers/buildah/releases) **1.41.4**, [Podman](https://github.com/containers/podman/releases) **5.6.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.20.0
-- [20250815 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20250815) - [Buildah](https://github.com/containers/buildah/releases) **1.41.3**, [Podman](https://github.com/containers/podman/releases) **5.6.0**, and [Skopeo](https://github.com/containers/skopeo/releases) **1.20.0**
 
 ## Linux emulation & containers
 - [QEMU user mode emulation](https://hub.docker.com/r/songdongsheng/qemu-user-static/tags), built from debian testing package [qemu-user](https://packages.debian.org/sid/qemu-user)
@@ -253,14 +253,19 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 ### Performance-optimized
 #### GLIBC [2.42](https://github.com/bminor/glibc/commits/release/2.42/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
 - aarch64-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe)
+    - [aarch64-linux-gnu.2.42-xe-20251020](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe-20251020)
     - [aarch64-linux-gnu.2.42-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe-20251008)
 - loongarch64-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-xe)
+    - [loongarch64-linux-gnu.2.42-xe-20251020](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-xe-20251020)
     - [loongarch64-linux-gnu.2.42-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-xe-20251008)
 - riscv64-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.42-xe)
+    - [riscv64-linux-gnu.2.42-xe-20251020](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.42-xe-20251020)
     - [riscv64-linux-gnu.2.42-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.42-xe-20251008)
 - s390x-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.42-xe)
+    - [s390x-linux-gnu.2.42-xe-20251020](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.42-xe-20251020)
     - [s390x-linux-gnu.2.42-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.42-xe-20251008)
 - x86_64-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.42-xe)
+    - [x86_64-linux-gnu.2.42-xe-20251020](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.42-xe-20251020)
     - [x86_64-linux-gnu.2.42-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.42-xe-20251008)
 
 #### GLIBC [2.41](https://github.com/bminor/glibc/commits/release/2.41/master) with [GCC](https://gcc.gnu.org/gcc-14/changes.html) [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
@@ -273,9 +278,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [loongarch64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250412)
     - [loongarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250331)
 - loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-15/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.41-20251022](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251022)
     - [loongarch64-linux-gnu.2.41-20251016](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251016)
     - [loongarch64-linux-gnu.2.41-20251013](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251013)
-    - [loongarch64-linux-gnu.2.41-20251007](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251007)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20251008)
     - [riscv64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250412)
@@ -318,6 +323,7 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 - [NetBSD -  9.4 (2024-04-20): aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.4)
 
 ## [OpenBSD](https://www.openbsd.org/faq/faq4.html#Download) sysroot
+- [OpenBSD - 7.8 (2025-10-22 ~ 2026-11-01): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.8)
 - [OpenBSD - 7.7 (2025-04-28 ~ 2026-01-01): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.7)
 - [OpenBSD - 7.6 (2024-10-08 ~ 2025-11-01): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.6)
 - [<text style="color : red">~~OpenBSD - 7.5 (2024-04-05 ~ 2025-04-28): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.5)
