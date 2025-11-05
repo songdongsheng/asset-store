@@ -3,6 +3,8 @@ Early Stage Program
 
 ## [GCC](https://gcc.gnu.org/)
 <!--
+git log --show-signature
+git log --pretty=format:"%h %an %ad %s %G?"
 git tag --contains 40b47c74ded17037962f075d28fb57d7e92d360d
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex="[^[:space:],-._]+"
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex='[[:alnum:]]+|[^[:space:]]'
@@ -280,9 +282,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [loongarch64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250412)
     - [loongarch64-linux-gnu.2.41-xe-20250331](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20250331)
 - loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-15/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.41-20251103](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251103)
     - [loongarch64-linux-gnu.2.41-20251022](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251022)
     - [loongarch64-linux-gnu.2.41-20251016](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251016)
-    - [loongarch64-linux-gnu.2.41-20251013](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251013)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20251008](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20251008)
     - [riscv64-linux-gnu.2.41-xe-20250412](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20250412)
