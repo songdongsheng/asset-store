@@ -40,10 +40,10 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 <!--
 gh release delete loongarch64-linux-gnu.2.41-20250828 --yes --cleanup-tag --repo songdongsheng/asset-store
 
-2025-07-08 23:06:32 (1752015992) -> 2025-11-03 09:35:47 (1762162547) -> 2025-11-13 09:22:08 (1763025728)
-20.1.8-20250708-g87f0227cb       -> 21.1.5-20251103-g8e2cd28cd       -> 21.1.6-20251113-ga832a5222
-20.1.8                           -> 21.1.5                           -> 21.1.6
-87f0227cb                        -> 8e2cd28cd                        -> a832a5222
+2025-07-08 23:06:32 (1752015992) -> 2025-11-03 09:35:47 (1762162547) -> 2025-11-13 09:22:08 (1763025728) -> 2025-12-01 12:58:50 (1764593930)
+20.1.8-20250708-g87f0227cb       -> 21.1.5-20251103-g8e2cd28cd       -> 21.1.6-20251113-ga832a5222       -> 21.1.7-20251201-g292dc2b86
+20.1.8                           -> 21.1.5                           -> 21.1.6                           -> 21.1.7
+87f0227cb                        -> 8e2cd28cd                        -> a832a5222                        -> 292dc2b86
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/main)
     - [Clang + LLVM 22.0.0 - 20251203](https://github.com/llvm/llvm-project/commit/c6910201cc70014d1360f6038b5eb61fdc3c8788): [(⏳aarch64|✅x86_64)-linux-gnu.2.17+ and 🧪Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.0.0)
