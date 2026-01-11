@@ -8,7 +8,7 @@ git log --pretty=format:"%h %an %ad %s %G?"
 git tag --contains 40b47c74ded17037962f075d28fb57d7e92d360d
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex="[^[:space:],-._]+"
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex='[[:alnum:]]+|[^[:space:]]'
-📁🔄🔃🌀⏳✅🧪
+📁🔄🔃🌀⏳✅⚠️🐛🐞🪲❌⛔🧪
 For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools running on the **$(uname -m)-linux-gnu** host, not native programs!
         ln -s gcc-12.5.0-20250711-riscv64-linux-gnu.2.28.tar.xz     gcc-12.5.0-riscv64-linux-gnu.tar.xz
         ln -s gcc-13.4.0-20250605-riscv64-linux-gnu.2.28.tar.xz     gcc-13.4.0-riscv64-linux-gnu.tar.xz
@@ -318,9 +318,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [riscv64-linux-gnu.2.41-xe-20251121](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20251121)
     - [riscv64-linux-gnu.2.41-xe-20251113](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20251113)
 - riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian 13](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/trixie/linux-libc-dev), [glibc](https://packages.debian.org/trixie/libc6) & [gcc](https://packages.debian.org/trixie/gcc-14))
+    - [riscv64-linux-gnu.2.41-20251230](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20251230)
     - [riscv64-linux-gnu.2.41-20251105](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20251105)
     - [riscv64-linux-gnu.2.41-20250920](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250920)
-    - [riscv64-linux-gnu.2.41-20250812](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20250812)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
     - [s390x-linux-gnu.2.41-xe-20251223](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20251223)
     - [s390x-linux-gnu.2.41-xe-20251121](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20251121)
