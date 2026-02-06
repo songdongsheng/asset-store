@@ -27,16 +27,16 @@ done << EOF
 EOF
 -->
 - [GCC](https://gcc.gnu.org/gcc-16/changes.html) - [16.x](https://github.com/gcc-mirror/gcc/commits/master)
-    - [gcc 16.0.1 - 20260118](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=db873dbcafd37a9a58cc7b26892d16336e6d0c56): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.1-x86_64-linux-gnu))-linux-gnu**
+    - [gcc 16.0.1 - 20260202](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=49c7fc2d534cb7e16f0e95fd89f47eb0b0d34762): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-16.0.1-x86_64-linux-gnu))-linux-gnu**
 - [GCC](https://gcc.gnu.org/gcc-15/changes.html) - [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
-    - [gcc 15.2.1 - 20260117](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=1a248bbc02cd595ac342723aff3c2e5d31b7188e): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-x86_64-linux-gnu))-linux-gnu**
+    - [gcc 15.2.1 - 20260201](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=e51e2c59cbc9249fc9d9094e266499cf3f2cdeff): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.1-x86_64-linux-gnu))-linux-gnu**
     - [gcc 15.2.0 - 20250808](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=5115c7e447fc07457443df874bf57840e8316d5f): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.0-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.0-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-15.2.0-x86_64-linux-gnu))-linux-gnu**
 - [GCC](https://gcc.gnu.org/gcc-14/changes.html) - [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
-    - [gcc 14.3.1 - 20260116](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=c8d48e21442febd5a3ebb8d78b83d1383e3daa8e): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.1-x86_64-linux-gnu))-linux-gnu**
+    - [gcc 14.3.1 - 20260130](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=28e8b195c51c0ea0806ea6dc79534f29b06fa0e4): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.1-x86_64-linux-gnu))-linux-gnu**
     - [gcc 14.3.0 - 20250523](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=8a6e2f71484abbf0d14c6db8e672576fad7492c8): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.3.0-x86_64-linux-gnu))-linux-gnu**
     - [gcc 14.2.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=a82352a2a074230d841a3944e30bd497726e0bfa): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-14.2.1-20250121)
 - [GCC](https://gcc.gnu.org/gcc-13/changes.html) - [13.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-13)
-    - [gcc 13.4.1 - 20260116](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=226e2cd2176f7eb7a90549a0fc7470f1aae4d653): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.1-x86_64-linux-gnu))-linux-gnu**
+    - [gcc 13.4.1 - 20260130](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=959af6f669e466fd6300a3f5f25dcf44b1c0d158): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.1-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.1-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.1-x86_64-linux-gnu))-linux-gnu**
     - [gcc 13.4.0 - 20250605](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=99677969d463d75a562f94460ea75e9f6a016b4f): (**[✅aarch64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.0-aarch64-linux-gnu)|[✅riscv64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.0-riscv64-linux-gnu)|[✅x86_64](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.4.0-x86_64-linux-gnu))-linux-gnu**
     - [gcc 13.3.1 - 20250121](https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=24291f6e40e4b37954b368361fc97fc8fb1bf864): [x86_64-linux-gnu.2.17+](https://github.com/songdongsheng/asset-store/releases/tag/gcc-13.3.1-20250121)
 - [GCC](https://gcc.gnu.org/gcc-12/changes.html) - [12.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-12)
@@ -74,9 +74,9 @@ EOF
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
+- [20260205 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20260205) - [Buildah](https://github.com/containers/buildah/releases) **1.43.0**, [Podman](https://github.com/containers/podman/releases) 5.7.1, and [Skopeo](https://github.com/containers/skopeo/releases) 1.21.0
 - [20251209 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20251209) - [Buildah](https://github.com/containers/buildah/releases) 1.42.2, [Podman](https://github.com/containers/podman/releases) **5.7.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.21.0
 - [20251202 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20251202) - [Buildah](https://github.com/containers/buildah/releases) **1.42.2**, [Podman](https://github.com/containers/podman/releases) 5.7.0, and [Skopeo](https://github.com/containers/skopeo/releases) **1.21.0**
-- [20251111 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20251111) - [Buildah](https://github.com/containers/buildah/releases) **1.42.1**, [Podman](https://github.com/containers/podman/releases) **5.7.0**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.20.0
 
 ## Linux emulation & containers
 - [QEMU user mode emulation](https://hub.docker.com/r/songdongsheng/qemu-user-static/tags), built from debian testing package [qemu-user](https://packages.debian.org/sid/qemu-user)
@@ -86,7 +86,7 @@ EOF
 - [Alibaba Cloud Linux 2.1903 - glibc 2.17](https://hub.docker.com/r/songdongsheng/alinux/tags?name=2.1903) (aarch64, x86_64), the end of life date is [March 31, 2026](https://www.alibabacloud.com/help/en/ecs/user-guide/solution-for-alibaba-cloud-linux-2-entering-the-els-phase)
 - [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [Anolis OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.10) (aarch64, x86_64), the end of life date is [March 31, 2031](https://docs.openanolis.cn/document/detail/ojobfl8g)
-- [Anolis OS 23.3 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.3) (aarch64, **loongarch64**, **riscv64**, x86_64), the end of life date is [June 30, 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
+- [Anolis OS 23.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.4) (aarch64, **loongarch64**, **riscv64**, x86_64), the end of life date is [June 30, 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=8.10) (aarch64, x86_64), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/)
 - [OpenCloud OS 9.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=9.4) (aarch64, **loongarch64**, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/)
 - [openEuler 22.03 - glibc 2.34](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=22.03) (aarch64, x86_64), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/)
@@ -184,25 +184,23 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [SLES 15.7 - GLIBC 2.38 - Jul 2031](https://www.suse.com/lifecycle/#product-suse-linux-enterprise-server)
 - [aarch64-linux-gnu.2.38-sles-15.7 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7)
+    - [aarch64-linux-gnu.2.38-sles-15.7-20260127](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7-20260127)
     - [aarch64-linux-gnu.2.38-sles-15.7-20251128](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7-20251128)
     - [aarch64-linux-gnu.2.38-sles-15.7-20250915](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7-20250915)
-    - [aarch64-linux-gnu.2.38-sles-15.7-20250519](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-sles-15.7-20250519)
 - [s390x-linux-gnu.2.38-sles-15.7 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7)
+    - [s390x-linux-gnu.2.38-sles-15.7-20260127](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7-20260127)
     - [s390x-linux-gnu.2.38-sles-15.7-20251128](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7-20251128)
     - [s390x-linux-gnu.2.38-sles-15.7-20250915](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7-20250915)
-    - [s390x-linux-gnu.2.38-sles-15.7-20250519](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.38-sles-15.7-20250519)
 - [x86_64-linux-gnu.2.38-sles-15.7 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7)
+  - [x86_64-linux-gnu.2.38-sles-15.7-20260127](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7-20260127)
   - [x86_64-linux-gnu.2.38-sles-15.7-20251128](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7-20251128)
   - [x86_64-linux-gnu.2.38-sles-15.7-20250915](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7-20250915)
-  - [x86_64-linux-gnu.2.38-sles-15.7-20250519](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-sles-15.7-20250519)
 
 #### [Leap 16.0 - GLIBC 2.40 - Nov 2027](https://en.opensuse.org/openSUSE:Roadmap)
 - [aarch64-linux-gnu.2.40-leap-16.0 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-leap-16.0)
     - [aarch64-linux-gnu.2.40-leap-16.0-20260120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-leap-16.0-20260120)
     - [aarch64-linux-gnu.2.40-leap-16.0-20250724](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-leap-16.0-20250724)
     - [aarch64-linux-gnu.2.40-leap-16.0-20250617](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.40-leap-16.0-20250617)
-- [s390x-linux-gnu.2.40-leap-16.0 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-leap-16.0)
-    - [s390x-linux-gnu.2.40-leap-16.0-20250617](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.40-leap-16.0-20250617)
 - [x86_64-linux-gnu.2.40-leap-16.0 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-leap-16.0)
     - [x86_64-linux-gnu.2.40-leap-16.0-20260120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-leap-16.0-20260120)
     - [x86_64-linux-gnu.2.40-leap-16.0-20250724](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.40-leap-16.0-20250724)
@@ -225,21 +223,21 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 ### Linux distribution based on GLIBC 2.38
 #### [Anolis OS 23 - 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [aarch64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.4)
+    - [aarch64-linux-gnu.2.38-20260204 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.4-20260204)
     - [aarch64-linux-gnu.2.38-20251127 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.4-20251127)
     - [aarch64-linux-gnu.2.38-20251127 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.3-20251127)
-    - [aarch64-linux-gnu.2.38-20251016 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.3-20251016)
 - [loongarch64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.4)
+    - [loongarch64-linux-gnu.2.38-20260204 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.4-20260204)
     - [loongarch64-linux-gnu.2.38-20251127 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.4-20251127)
     - [loongarch64-linux-gnu.2.38-20251127 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.3-20251127)
-    - [loongarch64-linux-gnu.2.38-20251016 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.3-20251016)
-- [riscv64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.4)
+- [<text style="color : #E67E22">riscv64-linux-gnu.2.38-anolis-23 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.4)
     - [riscv64-linux-gnu.2.38-20251229 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.4-20251229)
     - [riscv64-linux-gnu.2.38-20251016 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.3-20251016)
     - [riscv64-linux-gnu.2.38-20250904 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.3-20250904)
 - [x86_64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.4)
+    - [x86_64-linux-gnu.2.38-20260204 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.4-20260204)
     - [x86_64-linux-gnu.2.38-20251127 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.4-20251127)
     - [x86_64-linux-gnu.2.38-20251127 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.3-20251127)
-    - [x86_64-linux-gnu.2.38-20251016 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.3-20251016)
 
 #### [OpenCloud OS 9 - 2033](https://docs.opencloudos.org/en/release/oc_intro/)
 - [aarch64-linux-gnu.2.38-opencloud-9.4 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.4)
@@ -257,23 +255,23 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [openEuler](https://atomgit.com/openeuler/release-management/issues/1110) [24.03 LTS - 2030](https://www.openeuler.org/en/other/lifecycle/)
 - [aarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03)
-    - [aarch64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP2)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260128)
+    - [aarch64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260128)
     - [aarch64-linux-gnu.2.38-20260122 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260122)
     - [aarch64-linux-gnu.2.38-20251229 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20251229)
-- [<text style="color : green">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
-    - [<text style="color : green">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
+- [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
+    - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20250617 - openEuler 24.03 (LTS-SP2)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20250617)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
-- [<text style="color : green">riscv64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03)
-    - [<text style="color : green">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
+- [<text style="color : red">riscv64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03)
+    - [<text style="color : red">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
     - [*<text style="color : red">riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)*</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03)
-    - [x86_64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP2)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260128)
+    - [x86_64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260128)
     - [x86_64-linux-gnu.2.38-20260122 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260122)
     - [x86_64-linux-gnu.2.38-20251229 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20251229)
 
 ### Performance-optimized
-#### GLIBC [2.43](https://github.com/bminor/glibc/commits/release/2.43/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
+#### GLIBC [2.43](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.43/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
 - aarch64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe)
     - [aarch64-linux-gnu.2.43-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260124)
 - loongarch64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe)
@@ -285,15 +283,15 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 - x86_64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.43-xe)
     - [x86_64-linux-gnu.2.43-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.43-xe-20260124)
 
-#### GLIBC [2.42](https://github.com/bminor/glibc/commits/release/2.42/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
+#### GLIBC [2.42](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.42/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
 - aarch64-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe)
     - [aarch64-linux-gnu.2.42-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe-20260124)
     - [aarch64-linux-gnu.2.42-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe-20260120)
     - [aarch64-linux-gnu.2.42-xe-20251223](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.42-xe-20251223)
 - loongarch64-linux-gnu.2.42 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-15/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
+    - [loongarch64-linux-gnu.2.42-20260131](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-20260131)
     - [loongarch64-linux-gnu.2.42-20260116](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-20260116)
     - [loongarch64-linux-gnu.2.42-20260102](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-20260102)
-    - [loongarch64-linux-gnu.2.42-20251220](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-20251220)
 - loongarch64-linux-gnu.2.42-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-xe)
     - [loongarch64-linux-gnu.2.42-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-xe-20260124)
     - [loongarch64-linux-gnu.2.42-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.42-xe-20260120)
@@ -311,7 +309,7 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.42-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.42-xe-20260120)
     - [x86_64-linux-gnu.2.42-xe-20251223](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.42-xe-20251223)
 
-#### GLIBC [2.41](https://github.com/bminor/glibc/commits/release/2.41/master) with [GCC](https://gcc.gnu.org/gcc-14/changes.html) [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
+#### GLIBC [2.41](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.41/master) with [GCC](https://gcc.gnu.org/gcc-14/changes.html) [14.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-14)
 - aarch64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe)
     - [aarch64-linux-gnu.2.41-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe-20260124)
     - [aarch64-linux-gnu.2.41-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.41-xe-20260120)
@@ -320,10 +318,6 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [loongarch64-linux-gnu.2.41-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20260124)
     - [loongarch64-linux-gnu.2.41-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20260120)
     - [loongarch64-linux-gnu.2.41-xe-20251223](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-xe-20251223)
-- loongarch64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41) ([Debian ports](https://snapshot.debian.org/archive/debian-ports/) - [linux-libc-dev](https://deb.debian.org/debian-ports/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian-ports/pool-loong64/main/g/gcc-15/) & [glibc](http://deb.debian.org/debian-ports/pool-loong64/main/g/glibc/))
-    - [loongarch64-linux-gnu.2.41-20251202](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251202)
-    - [loongarch64-linux-gnu.2.41-20251126](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251126)
-    - [loongarch64-linux-gnu.2.41-20251122](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.41-20251122)
 - riscv64-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe)
     - [riscv64-linux-gnu.2.41-xe-20260124](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20260124)
     - [riscv64-linux-gnu.2.41-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20260120)
@@ -341,7 +335,7 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.41-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.41-xe-20260120)
     - [x86_64-linux-gnu.2.41-xe-20251223](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.41-xe-20251223)
 
-#### GLIBC [2.38](https://github.com/bminor/glibc/commits/release/2.38/master) with [GCC](https://gcc.gnu.org/gcc-12/changes.html) [12.5](https://gcc.gnu.org/onlinedocs/gcc-12.5.0/gcc/)
+#### GLIBC [2.38](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.38/master) with [GCC](https://gcc.gnu.org/gcc-12/changes.html) [12.5](https://gcc.gnu.org/onlinedocs/gcc-12.5.0/gcc/)
 - aarch64-linux-gnu.2.38-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-xe)
     - [aarch64-linux-gnu.2.38-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-xe-20260120)
     - [aarch64-linux-gnu.2.38-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-xe-20260120)
@@ -364,6 +358,7 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.38-xe-20251127](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20251127)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
+- [<text style="color : #7A52CC">FreeBSD - 14.4 (2026-03-10 ~ 2026-12-31): aarch64, riscv64, x86_64</text>](https://www.freebsd.org/releases/14.4R/schedule/)
 - [FreeBSD - 15.0 (2025-12-02 ~ 2026-09-30): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-15.0)
 - [FreeBSD - 14.3 (2025-06-10 ~ 2026-06-30): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.3)
 - [<text style="color : red">~~FreeBSD - 14.2 (2024-12-03 ~ 2025-09-30): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.2)
