@@ -83,6 +83,7 @@ EOF
 - QEMU system mode emulation for [aarch64-linux](https://github.com/songdongsheng/asset-store/releases/tag/qemu-aarch64-linux), [riscv64-linux](https://github.com/songdongsheng/asset-store/releases/tag/qemu-riscv64-linux), [x86_64-linux](https://github.com/songdongsheng/asset-store/releases/tag/qemu-x86_64-linux) and [x86_64-windows](https://github.com/songdongsheng/asset-store/releases/tag/qemu-x86_64-windows)
 - [TencentOS Server 2.4 - glibc 2.17](https://hub.docker.com/r/songdongsheng/tencentos/tags?name=2.4) (aarch64, x86_64), the end of life date is [December 31, 2032](https://cloud.tencent.com/document/product/1397/110955)
 - [TencentOS Server 3.3 - glibc 2.28](https://hub.docker.com/r/songdongsheng/tencentos/tags?name=3.3) (aarch64, x86_64), the end of life date is [December 31, 2032](https://cloud.tencent.com/document/product/1397/110955)
+- [TencentOS Server 4.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/tencentos/tags?name=4.4) (aarch64, x86_64), the end of life date is [April 30, 2036](https://cloud.tencent.com/document/product/1397/110955)
 - [Alibaba Cloud Linux 2.1903 - glibc 2.17](https://hub.docker.com/r/songdongsheng/alinux/tags?name=2.1903) (aarch64, x86_64), the end of life date is [March 31, 2026](https://www.alibabacloud.com/help/en/ecs/user-guide/solution-for-alibaba-cloud-linux-2-entering-the-els-phase)
 - [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [Anolis OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.10) (aarch64, x86_64), the end of life date is [March 31, 2031](https://docs.openanolis.cn/document/detail/ojobfl8g)
@@ -255,9 +256,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [openEuler](https://atomgit.com/openeuler/release-management/issues/1110) [24.03 LTS - 2030](https://www.openeuler.org/en/other/lifecycle/)
 - [aarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03)
+    - [aarch64-linux-gnu.2.38-20260204 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260204)
     - [aarch64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260128)
     - [aarch64-linux-gnu.2.38-20260122 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260122)
-    - [aarch64-linux-gnu.2.38-20251229 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20251229)
 - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
     - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20250617 - openEuler 24.03 (LTS-SP2)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20250617)
@@ -266,9 +267,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [<text style="color : red">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
     - [*<text style="color : red">riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)*</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03)
+    - [x86_64-linux-gnu.2.38-20260204 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260204)
     - [x86_64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260128)
     - [x86_64-linux-gnu.2.38-20260122 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260122)
-    - [x86_64-linux-gnu.2.38-20251229 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20251229)
 
 ### Performance-optimized
 #### GLIBC [2.43](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.43/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
