@@ -8,7 +8,7 @@ git log --pretty=format:"%h %an %ad %s %G?"
 git tag --contains 40b47c74ded17037962f075d28fb57d7e92d360d
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex="[^[:space:],-._]+"
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex='[[:alnum:]]+|[^[:space:]]'
-📁🔄🔃🌀⏳✅⚠️🐛🐞🪲❌⛔🧪
+📁(U+1F4C1)🔄🔃🌀⏳✅⚠️🐛🐞🪲❌⛔🧪
 For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools running on the **$(uname -m)-linux-gnu** host, not native programs!
         ln -s gcc-12.5.0-20250711-riscv64-linux-gnu.2.28.tar.xz     gcc-12.5.0-riscv64-linux-gnu.tar.xz
         ln -s gcc-13.4.0-20250605-riscv64-linux-gnu.2.28.tar.xz     gcc-13.4.0-riscv64-linux-gnu.tar.xz
@@ -87,11 +87,11 @@ EOF
 - [Alibaba Cloud Linux 2.1903 - glibc 2.17](https://hub.docker.com/r/songdongsheng/alinux/tags?name=2.1903) (aarch64, x86_64), the end of life date is [March 31, 2026](https://www.alibabacloud.com/help/en/ecs/user-guide/solution-for-alibaba-cloud-linux-2-entering-the-els-phase)
 - [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [Anolis OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.10) (aarch64, x86_64), the end of life date is [March 31, 2031](https://docs.openanolis.cn/document/detail/ojobfl8g)
-- [Anolis OS 23.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.4) (**aarch64**, **loongarch64**, *riscv64*, **x86_64**), the end of life date is [June 30, 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
+- [Anolis OS 23.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.4) (**aarch64**, **loongarch64**, ⚠️*riscv64*, **x86_64**), the end of life date is [June 30, 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [OpenCloud OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=8.10) (aarch64, x86_64), the end of life date is [May 31, 2029]( https://docs.opencloudos.org/en/release/oc_intro/)
 - [OpenCloud OS 9.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/opencloudos/tags?name=9.4) (aarch64, loongarch64, x86_64), the end of life date is [April 30, 2033]( https://docs.opencloudos.org/en/release/oc_intro/)
 - [openEuler 22.03 - glibc 2.34](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=22.03) (aarch64, x86_64), the end of life date is [March 31, 2028](https://www.openeuler.org/en/other/lifecycle/)
-- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=24.03) (**aarch64**, *loongarch64*, *riscv64*, **x86_64**), the end of life date is [March 31, 2030](https://atomgit.com/openeuler/release-management/issues/1110)
+- [openEuler 24.03 - glibc 2.38](https://hub.docker.com/r/songdongsheng/openeuler/tags?name=24.03) (**aarch64**, ⚠️*loongarch64*, ⚠️*riscv64*, **x86_64**), the end of life date is [March 31, 2030](https://atomgit.com/openeuler/release-management/issues/1110)
 
 ## Linux sysroot
 
@@ -114,17 +114,17 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
 -->
 - [aarch64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
+    - [aarch64-linux-gnu.2.39-20260217 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260217)
     - [aarch64-linux-gnu.2.39-20260207 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260207)
     - [aarch64-linux-gnu.2.39-20260131 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260131)
-    - [aarch64-linux-gnu.2.39-20260122 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260122)
 - [s390x-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
+    - [s390x-linux-gnu.2.39-20260218 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260218)
     - [s390x-linux-gnu.2.39-20260207 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260207)
     - [s390x-linux-gnu.2.39-20260131 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260131)
-    - [s390x-linux-gnu.2.39-20260122 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260122)
 - [x86_64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
+    - [x86_64-linux-gnu.2.39-20260217 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260217)
     - [x86_64-linux-gnu.2.39-20260207 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260207)
     - [x86_64-linux-gnu.2.39-20260131 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260131)
-    - [x86_64-linux-gnu.2.39-20260122 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260122)
 #### RHEL 9 - GLIBC 2.34 - May 2032
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
     - [aarch64-linux-gnu.2.34-20260217 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260217)
@@ -231,7 +231,7 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [loongarch64-linux-gnu.2.38-20260204 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.4-20260204)
     - [loongarch64-linux-gnu.2.38-20251127 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.4-20251127)
     - [loongarch64-linux-gnu.2.38-20251127 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.3-20251127)
-- [<text style="color : #E67E22">riscv64-linux-gnu.2.38-anolis-23 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.4)
+- ⚠️[<text style="color : #E67E22">riscv64-linux-gnu.2.38-anolis-23 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.4)
     - [riscv64-linux-gnu.2.38-20251229 - Anolis OS 23.4](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.4-20251229)
     - [riscv64-linux-gnu.2.38-20251016 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.3-20251016)
     - [riscv64-linux-gnu.2.38-20250904 - Anolis OS 23.3](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.3-20250904)
@@ -259,11 +259,11 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [aarch64-linux-gnu.2.38-20260204 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260204)
     - [aarch64-linux-gnu.2.38-20260128 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260128)
     - [aarch64-linux-gnu.2.38-20260122 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260122)
-- [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
+- ⚠️[<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
     - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20250617 - openEuler 24.03 (LTS-SP2)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20250617)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20241226 - openEuler 24.03 (LTS-SP1)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20241226)
-- [<text style="color : red">riscv64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03)
+- ⚠️[<text style="color : red">riscv64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03)
     - [<text style="color : red">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
     - [*<text style="color : red">riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)*</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03)
