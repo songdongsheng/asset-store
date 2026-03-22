@@ -117,30 +117,30 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
 -->
 - [aarch64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
+    - [aarch64-linux-gnu.2.39-20260310 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260310)
     - [aarch64-linux-gnu.2.39-20260303 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260303)
     - [aarch64-linux-gnu.2.39-20260219 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260219)
-    - [aarch64-linux-gnu.2.39-20260217 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260217)
 - [s390x-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
+    - [s390x-linux-gnu.2.39-20260310 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260310)
     - [s390x-linux-gnu.2.39-20260304 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260304)
     - [s390x-linux-gnu.2.39-20260219 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260219)
-    - [s390x-linux-gnu.2.39-20260218 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260218)
 - [x86_64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
+    - [x86_64-linux-gnu.2.39-20260310 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260310)
     - [x86_64-linux-gnu.2.39-20260303 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260303)
     - [x86_64-linux-gnu.2.39-20260219 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260219)
-    - [x86_64-linux-gnu.2.39-20260217 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260217)
 #### RHEL 9 - GLIBC 2.34 - May 2032
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
+    - [aarch64-linux-gnu.2.34-20260307 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260307)
     - [aarch64-linux-gnu.2.34-20260228 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260228)
     - [aarch64-linux-gnu.2.34-20260224 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260224)
-    - [aarch64-linux-gnu.2.34-20260217 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260217)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
+    - [s390x-linux-gnu.2.34-20260307 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260307)
     - [s390x-linux-gnu.2.34-20260228 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260228)
     - [s390x-linux-gnu.2.34-20260224 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260224)
-    - [s390x-linux-gnu.2.34-20260217 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260217)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
+    - [x86_64-linux-gnu.2.34-20260307 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260307)
     - [x86_64-linux-gnu.2.34-20260228 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260228)
     - [x86_64-linux-gnu.2.34-20260224 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260224)
-    - [x86_64-linux-gnu.2.34-20260217 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260217)
 
 #### RHEL 8.10 - GLIBC 2.28 - May 2029
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
@@ -259,9 +259,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [openEuler](https://atomgit.com/openeuler/release-management/issues/1110) [24.03 LTS - 2030](https://www.openeuler.org/en/other/lifecycle/)
 - [aarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03)
+    - [aarch64-linux-gnu.2.38-20260318 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260318)
     - [aarch64-linux-gnu.2.38-20260313 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260313)
     - [aarch64-linux-gnu.2.38-20260304 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260304)
-    - [aarch64-linux-gnu.2.38-20260225 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260225)
 - ⚠️[<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
     - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20250617 - openEuler 24.03 (LTS-SP2)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20250617)
@@ -270,9 +270,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [<text style="color : red">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
     - [*<text style="color : red">riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)*</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03)
+    - [x86_64-linux-gnu.2.38-20260318 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260318)
     - [x86_64-linux-gnu.2.38-20260313 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260313)
     - [x86_64-linux-gnu.2.38-20260304 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260304)
-    - [x86_64-linux-gnu.2.38-20260225 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260225)
 
 ### Performance-optimized
 #### GLIBC [2.43](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.43/master) with [GCC](https://gcc.gnu.org/gcc-15/changes.html) [15.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-15)
