@@ -53,9 +53,9 @@ EOF
 87f0227cb                        -> 292dc2b86                        -> 2078da43e
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/release/22.x)
+    - [Clang + LLVM 22.1.3 - 20260407](https://github.com/llvm/llvm-project/commit/e9846648fd6183ee6d8cbdb4502213fcf902a211): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.3)
     - [Clang + LLVM 22.1.2 - 20260324](https://github.com/llvm/llvm-project/commit/1ab49a973e210e97d61e5db6557180dcb92c3e98): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.2)
     - [Clang + LLVM 22.1.1 - 20260310](https://github.com/llvm/llvm-project/commit/fef02d48c08db859ef83f84232ed78bd9d1c323a): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.1)
-    - [Clang + LLVM 22.1.0 - 20260224](https://github.com/llvm/llvm-project/commit/8164f1a0c17b192e133817436bdb07598b7402a3): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.0)
 - [Clang](https://releases.llvm.org/21.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/21.1.0/tools/clang/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/release/21.x)
     - [Clang + LLVM 21.1.8 - 20251216](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.8): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.8)
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
@@ -118,17 +118,17 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
 -->
 - [aarch64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
+    - [aarch64-linux-gnu.2.39-20260331 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260331)
     - [aarch64-linux-gnu.2.39-20260321 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260321)
     - [aarch64-linux-gnu.2.39-20260310 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260310)
-    - [aarch64-linux-gnu.2.39-20260303 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260303)
 - [s390x-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
+    - [s390x-linux-gnu.2.39-20260331 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260331)
     - [s390x-linux-gnu.2.39-20260321 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260321)
     - [s390x-linux-gnu.2.39-20260310 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260310)
-    - [s390x-linux-gnu.2.39-20260304 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260304)
 - [x86_64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
+    - [x86_64-linux-gnu.2.39-20260331 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260331)
     - [x86_64-linux-gnu.2.39-20260321 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260321)
     - [x86_64-linux-gnu.2.39-20260310 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260310)
-    - [x86_64-linux-gnu.2.39-20260303 - RHEL 10.1](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260303)
 #### RHEL 9 - GLIBC 2.34 - May 2032
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
     - [aarch64-linux-gnu.2.34-20260331 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260331)
@@ -145,9 +145,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### RHEL 8.10 - GLIBC 2.28 - May 2029
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
+    - [aarch64-linux-gnu.2.28-20260327 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260327)
     - [aarch64-linux-gnu.2.28-20260323 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260323)
     - [aarch64-linux-gnu.2.28-20260228 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260228)
-    - [aarch64-linux-gnu.2.28-20260224 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260224)
 - [s390x-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28)
     - [s390x-linux-gnu.2.28-20260327 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20260327)
     - [s390x-linux-gnu.2.28-20260323 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20260323)
