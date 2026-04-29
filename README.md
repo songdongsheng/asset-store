@@ -53,9 +53,9 @@ EOF
 87f0227cb                        -> 292dc2b86                        -> 2078da43e
 -->
 - [Clang](https://clang.llvm.org/docs/ReleaseNotes.html) + [LLVM](https://llvm.org/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/release/22.x)
+    - [Clang + LLVM 22.1.4 - 20260421](https://github.com/llvm/llvm-project/commit/35990504507d79e0b9deb809c8ee5e1b34ceef20): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.4)
     - [Clang + LLVM 22.1.3 - 20260407](https://github.com/llvm/llvm-project/commit/e9846648fd6183ee6d8cbdb4502213fcf902a211): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.3)
     - [Clang + LLVM 22.1.2 - 20260324](https://github.com/llvm/llvm-project/commit/1ab49a973e210e97d61e5db6557180dcb92c3e98): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.2)
-    - [Clang + LLVM 22.1.1 - 20260310](https://github.com/llvm/llvm-project/commit/fef02d48c08db859ef83f84232ed78bd9d1c323a): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-22.1.1)
 - [Clang](https://releases.llvm.org/21.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/21.1.0/tools/clang/docs/ReleaseNotes.html) - [21.x](https://github.com/llvm/llvm-project/commits/release/21.x)
     - [Clang + LLVM 21.1.8 - 20251216](https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.8): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-21.1.8)
 - [Clang](https://releases.llvm.org/20.1.0/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/20.1.0/tools/clang/docs/ReleaseNotes.html) - [20.x](https://github.com/llvm/llvm-project/commits/release/20.x)
@@ -63,16 +63,16 @@ EOF
 
 ## [GnuPG](https://gnupg.org/download/index.html)
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.19 - 20260424](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.19.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.19)
     - [GnuPG 2.5.18 - 20260224](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.18.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.18)
     - [GnuPG 2.5.17 - 20260127](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.17.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.17)
-    - [GnuPG 2.5.16 - 20251230](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.16.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.16)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
     - [GnuPG 2.4.9 - 20251230](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.9.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.9)
     - [GnuPG 2.4.8 - 20250514](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.8)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
+    - [GnuPG 2.2.54 - 20260420](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.54/gnupg-2.2.54.tar.xz): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.54)
     - [GnuPG 2.2.53 - 20260312](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.53/gnupg-2.2.53.tar.xz): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.53)
     - [GnuPG 2.2.52 - 20251201](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.52/gnupg-2.2.52.tar.xz): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.52)
-    - [GnuPG 2.2.51 - 20251028](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.51/gnupg-2.2.51.tar.xz): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.51)
 
 ## [Podman, Buildah and Skopeo](https://github.com/containers/)
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
