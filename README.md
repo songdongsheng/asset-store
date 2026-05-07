@@ -13,19 +13,23 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
         ln -s gcc-12.5.0-20250711-riscv64-linux-gnu.2.28.tar.xz     gcc-12.5.0-riscv64-linux-gnu.tar.xz
         ln -s gcc-13.4.0-20250605-riscv64-linux-gnu.2.28.tar.xz     gcc-13.4.0-riscv64-linux-gnu.tar.xz
         ln -s gcc-14.3.0-20250523-riscv64-linux-gnu.2.28.tar.xz     gcc-14.3.0-riscv64-linux-gnu.tar.xz
-
-        ln -s gcc-15.2.0-20250808-aarch64-linux-gnu.2.17.tar.xz     gcc-15.2.0-aarch64-linux-gnu.tar.xz
         ln -s gcc-15.2.0-20250808-riscv64-linux-gnu.2.31.tar.xz     gcc-15.2.0-riscv64-linux-gnu.tar.xz
-        ln -s gcc-15.2.0-20250808-x86_64-linux-gnu.2.17.tar.xz      gcc-15.2.0-x86_64-linux-gnu.tar.xz
+
+        ln -s gcc-16.1.0-20260430-aarch64-linux-gnu.2.17.tar.xz     gcc-16.1.0-aarch64-linux-gnu.tar.xz
+        ln -s gcc-16.1.0-20260430-riscv64-linux-gnu.2.31.tar.xz     gcc-16.1.0-riscv64-linux-gnu.tar.xz
+        ln -s gcc-16.1.0-20260430-x86_64-linux-gnu.2.17.tar.xz      gcc-16.1.0-x86_64-linux-gnu.tar.xz
 
 gh release create clang+llvm-22.1.8 --repo songdongsheng/asset-store --title "Clang + LLVM 22.1.8" --notes "Build from Clang + LLVM 22.1.8 (20260616)" --latest=false
 
 while read tagName rest; do
     gh release delete "${tagName}" --yes --cleanup-tag --repo songdongsheng/asset-store
 done << EOF
-    loongarch64-linux-gnu.2.41-20251107
-    loongarch64-linux-gnu.2.41-20251111
-    loongarch64-linux-gnu.2.41-20251115
+    loongarch64-linux-gnu.2.38-20260312
+    loongarch64-linux-gnu.2.38-20260427
+    loongarch64-linux-gnu.2.38-20260502
+    loongarch64-linux-gnu.2.42-20260413
+    loongarch64-linux-gnu.2.42-20260418
+    loongarch64-linux-gnu.2.42-20260425
 EOF
 -->
 - [GCC](https://gcc.gnu.org/gcc-17/changes.html) - [17.x](https://github.com/gcc-mirror/gcc/commits/master)
@@ -92,7 +96,6 @@ EOF
 - [TencentOS Server 2.4 - glibc 2.17](https://hub.docker.com/r/songdongsheng/tencentos/tags?name=2.4) (aarch64, x86_64), the end of life date is [December 31, 2032](https://cloud.tencent.com/document/product/1397/110955)
 - [TencentOS Server 3.3 - glibc 2.28](https://hub.docker.com/r/songdongsheng/tencentos/tags?name=3.3) (aarch64, x86_64), the end of life date is [December 31, 2032](https://cloud.tencent.com/document/product/1397/110955)
 - [TencentOS Server 4.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/tencentos/tags?name=4.4) (aarch64, loongarch64, x86_64), the end of life date is [April 30, 2036](https://cloud.tencent.com/document/product/1397/110955)
-- [Alibaba Cloud Linux 2.1903 - glibc 2.17](https://hub.docker.com/r/songdongsheng/alinux/tags?name=2.1903) (aarch64, x86_64), the end of life date is [March 31, 2026](https://www.alibabacloud.com/help/en/ecs/user-guide/solution-for-alibaba-cloud-linux-2-entering-the-els-phase)
 - [Anolis OS 7.9 - glibc 2.17](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=7.9) (aarch64, x86_64), the end of life date is [June 30, 2028](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [Anolis OS 8.10 - glibc 2.28](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=8.10) (aarch64, x86_64), the end of life date is [March 31, 2031](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [Anolis OS 23.4 - glibc 2.38](https://hub.docker.com/r/songdongsheng/anolisos/tags?name=23.4) (**aarch64**, **loongarch64**, ⚠️*riscv64*, **x86_64**), the end of life date is [June 30, 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
@@ -368,6 +371,25 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.38-xe-20260502](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20260502)
     - [x86_64-linux-gnu.2.38-xe-20260421](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20260421)
     - [x86_64-linux-gnu.2.38-xe-20260120](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-xe-20260120)
+
+### [Ubuntu](https://documentation.ubuntu.com/project/release-team/list-of-releases/) [ESM](https://ubuntu.com/security/esm) & [release cycle](https://ubuntu.com/about/release-cycle)
+#### [Ubuntu 20.04 - Focal Fossa](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes)
+- aarch64-linux-gnu.2.31 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31)
+    - [aarch64-linux-gnu.2.31-20260313](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.31-20260313)
+- riscv64-linux-gnu.2.31 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.31)
+    - [riscv64-linux-gnu.2.31-20260313](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.31-20260313)
+- s390x-linux-gnu.2.31 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31)
+    - [s390x-linux-gnu.2.31-20260313](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.31-20260313)
+- x86_64-linux-gnu.2.31 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31)
+    - [x86_64-linux-gnu.2.31-20260313](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.31-20260313)
+
+#### [Ubuntu 18.04 - Bionic Beaver](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes)
+- aarch64-linux-gnu.2.27 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.27)
+    - [aarch64-linux-gnu.2.27-20260313](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.27-20260313)
+- s390x-linux-gnu.2.27 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.27)
+    - [s390x-linux-gnu.2.27-20260313](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.27-20260313)
+- x86_64-linux-gnu.2.27 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.27)
+    - [x86_64-linux-gnu.2.27-20260313](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.27-20260313)
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [<text style="color : #7A52CC">FreeBSD - 15.1 (2026-06-02 ~ 2027-03-31): aarch64, riscv64, x86_64</text>](https://www.freebsd.org/releases/15.1R/schedule/)
