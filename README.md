@@ -71,9 +71,9 @@ EOF
 
 ## [GnuPG](https://gnupg.org/download/index.html)
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.20 - 20260513](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.20.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.20)
     - [GnuPG 2.5.19 - 20260424](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.19.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.19)
     - [GnuPG 2.5.18 - 20260224](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.18.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.18)
-    - [GnuPG 2.5.17 - 20260127](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.17.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.17)
 - [GnuPG 2.4 - LTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-4/NEWS)
     - [GnuPG 2.4.9 - 20251230](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.9.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.9)
     - [GnuPG 2.4.8 - 20250514](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.4.8.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.4.8)
