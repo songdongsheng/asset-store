@@ -257,9 +257,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [openEuler](https://atomgit.com/openeuler/release-management/issues/1110) [24.03 LTS - 2030](https://www.openeuler.org/en/other/lifecycle/)
 - [aarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03)
+    - [aarch64-linux-gnu.2.38-20260527 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260527)
     - [aarch64-linux-gnu.2.38-20260521 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260521)
     - [aarch64-linux-gnu.2.38-20260513 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260513)
-    - [aarch64-linux-gnu.2.38-20260508 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260508)
 - ⚠️[<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
     - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20250617 - openEuler 24.03 (LTS-SP2)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20250617)
@@ -269,9 +269,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [<text style="color : red">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
     - [*<text style="color : red">riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)*</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03)
+    - [x86_64-linux-gnu.2.38-20260527 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260527)
     - [x86_64-linux-gnu.2.38-20260521 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260521)
     - [x86_64-linux-gnu.2.38-20260513 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260513)
-    - [x86_64-linux-gnu.2.38-20260508 - openEuler 24.03 (LTS-SP3)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260508)
 
 ### Performance-optimized
 #### GLIBC [2.43](https://sourceware.org/git/?p=glibc.git;a=shortlog;h=refs/heads/release/2.43/master) with [GCC](https://gcc.gnu.org/gcc-16/changes.html) [16.x](https://github.com/gcc-mirror/gcc/commits/releases/gcc-16)
