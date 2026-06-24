@@ -21,6 +21,32 @@ For non **$(uname -m)-linux-gnu** packages, they are **cross-compilation** tools
 
 gh release create clang+llvm-22.1.8 --repo songdongsheng/asset-store --title "Clang + LLVM 22.1.8" --notes "Build from Clang + LLVM 22.1.8 (20260616)" --latest=false
 
+git tag | sort -V | python3 -c "
+import sys, re
+from collections import defaultdict
+
+groups = defaultdict(list)
+others = []
+
+for line in sys.stdin:
+    line = line.rstrip()
+    if not line: continue
+    if re.search(r'-\d{8}$', line):
+        tag, date = line.rsplit('-', 1)
+        groups[tag].append((date, line))
+    else:
+        others.append(line)
+
+# for line in others:
+#     print(line)
+
+for entries in groups.values():
+    if len(entries) > 3:
+        entries.sort(key=lambda x: x[0], reverse=True)
+        for _, line in entries[3:]:
+            print(line)
+"
+
 while read tagName rest; do
     gh release delete "${tagName}" --yes --cleanup-tag --repo songdongsheng/asset-store
 done << EOF
@@ -136,31 +162,31 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.39-20260602 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260602)
 #### RHEL 9 - GLIBC 2.34 - May 2032
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
+    - [aarch64-linux-gnu.2.34-20260618 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260618)
     - [aarch64-linux-gnu.2.34-20260610 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260610)
     - [aarch64-linux-gnu.2.34-20260602 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260602)
-    - [aarch64-linux-gnu.2.34-20260525 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260525)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
+    - [s390x-linux-gnu.2.34-20260618 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260618)
     - [s390x-linux-gnu.2.34-20260610 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260610)
     - [s390x-linux-gnu.2.34-20260602 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260602)
-    - [s390x-linux-gnu.2.34-20260525 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260525)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
+    - [x86_64-linux-gnu.2.34-20260618 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260618)
     - [x86_64-linux-gnu.2.34-20260610 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260610)
     - [x86_64-linux-gnu.2.34-20260602 - RHEL 9.7](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260602)
-    - [x86_64-linux-gnu.2.34-20260525 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260525)
 
 #### RHEL 8.10 - GLIBC 2.28 - May 2029
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
+    - [aarch64-linux-gnu.2.28-20260619 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260619)
     - [aarch64-linux-gnu.2.28-20260618 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260618)
     - [aarch64-linux-gnu.2.28-20260612 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260612)
-    - [aarch64-linux-gnu.2.28-20260610 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20260610)
 - [s390x-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28)
+    - [s390x-linux-gnu.2.28-20260619 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20260619)
     - [s390x-linux-gnu.2.28-20260618 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20260618)
     - [s390x-linux-gnu.2.28-20260612 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20260612)
-    - [s390x-linux-gnu.2.28-20260610 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20260610)
 - [x86_64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28)
+    - [x86_64-linux-gnu.2.28-20260619 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20260619)
     - [x86_64-linux-gnu.2.28-20260618 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20260618)
     - [x86_64-linux-gnu.2.28-20260612 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20260612)
-    - [x86_64-linux-gnu.2.28-20260610 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20260610)
 
 #### RHEL 7.9 - GLIBC 2.17 (ELS)
 - [aarch64-linux-gnu.2.17 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.17)
@@ -338,9 +364,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [riscv64-linux-gnu.2.41-xe-20260420](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20260420)
     - [riscv64-linux-gnu.2.41-xe-20260218](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-xe-20260218)
 - riscv64-linux-gnu.2.41 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41) ([Debian Trixie/13](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/trixie/linux-libc-dev), [gcc](https://packages.debian.org/trixie/gcc-14), [glibc](https://packages.debian.org/trixie/libc6) & [libxcrypt](https://packages.debian.org/trixie/libcrypt-dev))
+    - [riscv64-linux-gnu.2.41-20260620](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20260620)
     - [riscv64-linux-gnu.2.41-20260527](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20260527)
     - [riscv64-linux-gnu.2.41-20260522](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20260522)
-    - [riscv64-linux-gnu.2.41-20260515](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.41-20260515)
 - s390x-linux-gnu.2.41-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe)
     - [s390x-linux-gnu.2.41-xe-20260502](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20260502)
     - [s390x-linux-gnu.2.41-xe-20260420](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.41-xe-20260420)
