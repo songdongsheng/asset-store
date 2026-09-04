@@ -100,9 +100,9 @@ net use O: \\opi4p-01.local\dongsheng /USER:opi4p-01.local\dongsheng /PERSISTENT
 
 ## [GnuPG](https://gnupg.org/download/index.html)
 - [GnuPG 2.5](https://github.com/gpg/gnupg/blob/master/NEWS)
+    - [GnuPG 2.5.22 - 20260831](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.22.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.22)
     - [GnuPG 2.5.21 - 20260702](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.21.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.21)
     - [GnuPG 2.5.20 - 20260513](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.20.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.20)
-    - [GnuPG 2.5.19 - 20260424](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.19.tar.bz2): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.5.19)
 - [GnuPG 2.2 - ELTS](https://github.com/gpg/gnupg/blob/STABLE-BRANCH-2-2/NEWS)
     - [GnuPG 2.2.55 - 20260827](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.55/gnupg-2.2.55.tar.xz): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.55)
     - [GnuPG 2.2.54 - 20260420](https://github.com/songdongsheng/asset-store/releases/download/GnuPG-2.2.54/gnupg-2.2.54.tar.xz): [(aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/GnuPG-2.2.54)
@@ -112,9 +112,9 @@ net use O: \\opi4p-01.local\dongsheng /USER:opi4p-01.local\dongsheng /PERSISTENT
 - [Say "Hello" to Buildah, Podman, and Skopeo](https://www.redhat.com/en/blog/say-hello-buildah-podman-and-skopeo)
 - [Characteristics of Podman, Buildah, and Skopeo](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_starting-with-containers_building-running-and-managing-containers)
 - [Running Skopeo, Buildah, and Podman in a container](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/building_running_and_managing_containers/assembly_running-skopeo-buildah-and-podman-in-a-container)
+- [20260902 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20260902) - [Buildah](https://github.com/containers/buildah/releases) 1.45.0, [Podman](https://github.com/containers/podman/releases) **6.1.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.24.0
 - [20260812 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20260812) - [Buildah](https://github.com/containers/buildah/releases) **1.45.0**, [Podman](https://github.com/containers/podman/releases) **6.1.0**, and [Skopeo](https://github.com/containers/skopeo/releases) **1.24.0**
 - [20260708 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20260708) - [Buildah](https://github.com/containers/buildah/releases) 1.44.0, [Podman](https://github.com/containers/podman/releases) **6.0.1**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.23.0
-- [20260624 (aarch64|riscv64|x86_64)-linux-gnu](https://github.com/songdongsheng/asset-store/releases/tag/buildah-podman-skopeo-20260624) - [Buildah](https://github.com/containers/buildah/releases) 1.44.0, [Podman](https://github.com/containers/podman/releases) **6.0.0**, and [Skopeo](https://github.com/containers/skopeo/releases) 1.23.0
 
 ## Linux emulation & containers
 - [QEMU user mode emulation](https://hub.docker.com/r/songdongsheng/qemu-user-static/tags), built from debian testing package [qemu-user](https://packages.debian.org/sid/qemu-user)
@@ -151,17 +151,17 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     glibc glibc-common glibc-devel kernel-headers libgcc libstdc++ libstdc++-devel libxcrypt libxcrypt-devel
 -->
 - [aarch64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39)
+    - [aarch64-linux-gnu.2.39-20260831 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260831)
     - [aarch64-linux-gnu.2.39-20260819 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260819)
     - [aarch64-linux-gnu.2.39-20260812 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260812)
-    - [aarch64-linux-gnu.2.39-20260804 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.39-20260804)
 - [s390x-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39)
+    - [s390x-linux-gnu.2.39-20260831 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260831)
     - [s390x-linux-gnu.2.39-20260819 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260819)
     - [s390x-linux-gnu.2.39-20260812 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260812)
-    - [s390x-linux-gnu.2.39-20260804 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.39-20260804)
 - [x86_64-linux-gnu.2.39 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39)
+    - [x86_64-linux-gnu.2.39-20260831 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260831)
     - [x86_64-linux-gnu.2.39-20260819 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260819)
     - [x86_64-linux-gnu.2.39-20260812 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260812)
-    - [x86_64-linux-gnu.2.39-20260804 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260804)
 #### RHEL 9 - GLIBC 2.34 - May 2032
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
     - [aarch64-linux-gnu.2.34-20260824 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260824)
@@ -283,9 +283,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### [openEuler](https://atomgit.com/openeuler/release-management/issues/1110) [24.03 LTS - 2030](https://www.openeuler.org/en/other/lifecycle/)
 - [aarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03)
+    - [aarch64-linux-gnu.2.38-20260824 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260824)
     - [aarch64-linux-gnu.2.38-20260817 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260817)
     - [aarch64-linux-gnu.2.38-20260810 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260810)
-    - [aarch64-linux-gnu.2.38-20260727 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-openeuler-24.03-20260727)
 - ⚠️[<text style="color : #E67E22">loongarch64-linux-gnu.2.38-openeuler-24.03 - **rolling**</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03)
     - [<text style="color : #E67E22">loongarch64-linux-gnu.2.38-20260626 - openEuler 24.03 (LTS-SP4)</text>](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20260626)
     - [*<text style="color : red">loongarch64-linux-gnu.2.38-20251226 - openEuler 24.03 (LTS-SP3)</text>*](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-openeuler-24.03-20251226)
@@ -295,9 +295,9 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [<text style="color : red">riscv64-linux-gnu.2.38-20250627 - openEuler 24.03 (LTS-SP2)</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20250627)
     - [*<text style="color : red">riscv64-linux-gnu.2.38-20241230 - openEuler 24.03 (LTS-SP1)*</text>](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-openeuler-24.03-20241230)
 - [x86_64-linux-gnu.2.38-openeuler-24.03 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03)
+    - [x86_64-linux-gnu.2.38-20260824 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260824)
     - [x86_64-linux-gnu.2.38-20260817 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260817)
     - [x86_64-linux-gnu.2.38-20260810 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260810)
-    - [x86_64-linux-gnu.2.38-20260727 - openEuler 24.03 (LTS-SP4)](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-openeuler-24.03-20260727)
 
 ### Performance-optimized
 <!--
