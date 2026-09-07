@@ -414,9 +414,9 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
 
 ## [FreeBSD](https://www.freebsd.org/releng/) sysroot
 - [<text style="color : #7A52CC">FreeBSD - 15.2 (2026-12-08 ~ 2027-09-30): aarch64, riscv64, x86_64</text>](https://www.freebsd.org/releases/15.2R/schedule/)
-- [<text style="color : #7A52CC">FreeBSD - 14.5 (2026-09-08 ~ 2027-06-30): aarch64, riscv64, x86_64</text>](https://www.freebsd.org/releases/14.5R/schedule/)
 - [FreeBSD - 15.1 (2026-06-16 ~ 2027-03-31): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-15.1)
 - [FreeBSD - 15.0 (2025-12-02 ~ 2026-09-30): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-15.0)
+- [<text style="color : #7A52CC">FreeBSD - 14.5 (2026-09-08 ~ 2027-06-30): aarch64, riscv64, x86_64</text>](https://www.freebsd.org/releases/14.5R/schedule/)
 - [FreeBSD - 14.4 (2026-03-10 ~ 2026-12-31): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.4)
 - [<text style="color : red">~~FreeBSD - 14.3 (2025-06-10 ~ 2026-06-30): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-14.3)
 - [<text style="color : red">~~FreeBSD - 13.5 (2025-03-11 ~ 2026-04-30): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/freebsd-sysroot-13.5)
@@ -427,7 +427,8 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
 - [NetBSD - 11.0 (2026-07-30): aarch64, <ins>*riscv64*</ins>, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-11.0)
 - [NetBSD - 10.1 (2024-12-16): aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-10.1)
 - [NetBSD - 10.0 (2024-03-28): aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-10.0)
-- [NetBSD -  9.4 (2024-04-20): aarch64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.4)
+- [<text style="color : red">~~NetBSD -  9.5 (2026-08-31): aarch64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.5)
+- [<text style="color : red">~~NetBSD -  9.4 (2024-04-20): aarch64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.4)
 
 ## [OpenBSD](https://www.openbsd.org/faq/faq4.html#Download) sysroot
 - [OpenBSD - 7.9 (2026-05-19 ~ 2027-06-01): aarch64, riscv64, x86_64](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.9)
