@@ -337,7 +337,7 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
     - [loongarch64-linux-gnu.2.43-xe-20260829](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260829)
     - [loongarch64-linux-gnu.2.43-xe-20260609](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260609)
 - riscv64-linux-gnu.2.43 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43) ([Debian Forky/14](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/forky/linux-libc-dev), [gcc](https://packages.debian.org/forky/gcc-16), [glibc](https://packages.debian.org/forky/libc6) & [libxcrypt](https://packages.debian.org/forky/libcrypt-dev))
-    - [riscv64-linux-gnu.2.43-20260903](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260903)
+    - [riscv64-linux-gnu.2.43-20260905](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260905)
     - [riscv64-linux-gnu.2.43-20260828](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260828)
     - [riscv64-linux-gnu.2.43-20260815](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260815)
 - riscv64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe)
