@@ -334,7 +334,7 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
     - [aarch64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260910)
     - [aarch64-linux-gnu.2.43-xe-20260829](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260829)
 - loongarch64-linux-gnu.2.43 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43) ([Debian Forky/14](https://snapshot.debian.org/archive/debian/) - [linux-libc-dev](https://deb.debian.org/debian/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian/pool/main/g/gcc-16/?C=M;O=D), [glibc](http://deb.debian.org/debian/pool/main/g/glibc/?C=M;O=D) & [libxcrypt](https://deb.debian.org/debian/pool/main/libx/libxcrypt/?C=M;O=D))
-    - [loongarch64-linux-gnu.2.43-20260918](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20260918)
+    - [loongarch64-linux-gnu.2.43-20260919](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20260919)
     - [loongarch64-linux-gnu.2.43-20260905](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20260905)
     - [loongarch64-linux-gnu.2.43-20260815](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20260815)
 - loongarch64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe)
