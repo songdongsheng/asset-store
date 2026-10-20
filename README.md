@@ -342,9 +342,9 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
     - [loongarch64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260910)
     - [loongarch64-linux-gnu.2.43-xe-20260829](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260829)
 - riscv64-linux-gnu.2.43 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43) ([Debian Forky/14](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/forky/linux-libc-dev), [gcc](https://packages.debian.org/forky/gcc-16), [glibc](https://packages.debian.org/forky/libc6) & [libxcrypt](https://packages.debian.org/forky/libcrypt-dev))
+    - [riscv64-linux-gnu.2.43-20261015](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20261015)
     - [riscv64-linux-gnu.2.43-20261003](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20261003)
     - [riscv64-linux-gnu.2.43-20260926](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260926)
-    - [riscv64-linux-gnu.2.43-20260905](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260905)
 - riscv64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe)
     - [riscv64-linux-gnu.2.43-xe-20260918](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe-20260918)
     - [riscv64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe-20260910)
@@ -446,6 +446,7 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
 - [<text style="color : red">~~NetBSD -  9.4 (2024-04-20): aarch64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/netbsd-sysroot-9.4)
 
 ## [OpenBSD](https://www.openbsd.org/faq/faq4.html#Download) sysroot
-- [<text style="color : #2E9E5B">OpenBSD - 7.9 (2026-05-19 ~ 2027-06-01): aarch64, riscv64, x86_64</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.9)
-- [<text style="color : #2F77B3">OpenBSD - 7.8 (2025-10-22 ~ 2026-11-01): aarch64, riscv64, x86_64</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.8)
-- [<text style="color : red">~~OpenBSD - 7.7 (2025-04-28 ~ 2026-05-01): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.7)
+- [<text style="color : #2E9E5B">OpenBSD - 8.0 (2026-10-20 ~ 2027-11-01): aarch64, riscv64, x86_64</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-8.0)
+- [<text style="color : #2F77B3">OpenBSD - 7.9 (2026-05-19 ~ 2027-06-01): aarch64, riscv64, x86_64</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.9)
+- [<text style="color : red">~~OpenBSD - 7.8 (2025-10-22 ~ 2026-10-20): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.8)
+- [<text style="color : red">~~OpenBSD - 7.7 (2025-04-28 ~ 2026-05-19): aarch64, riscv64, x86_64~~</text>](https://github.com/songdongsheng/asset-store/releases/tag/openbsd-sysroot-7.7)
