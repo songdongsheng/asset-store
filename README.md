@@ -178,15 +178,15 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 
 #### RHEL 8.10 - GLIBC 2.28 - May 2029
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
-    - [aarch64-linux-gnu.2.28-20261021 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261021)
+    - [aarch64-linux-gnu.2.28-20261023 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261023)
     - [aarch64-linux-gnu.2.28-20261014 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261014)
     - [aarch64-linux-gnu.2.28-20261007 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261007)
 - [s390x-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28)
-    - [s390x-linux-gnu.2.28-20261021 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261021)
+    - [s390x-linux-gnu.2.28-20261023 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261023)
     - [s390x-linux-gnu.2.28-20261014 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261014)
     - [s390x-linux-gnu.2.28-20261007 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261007)
 - [x86_64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28)
-    - [x86_64-linux-gnu.2.28-20261021 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261021)
+    - [x86_64-linux-gnu.2.28-20261023 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261023)
     - [x86_64-linux-gnu.2.28-20261014 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261014)
     - [x86_64-linux-gnu.2.28-20261007 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261007)
 
@@ -335,7 +335,7 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
     - [aarch64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260910)
     - [aarch64-linux-gnu.2.43-xe-20260829](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260829)
 - loongarch64-linux-gnu.2.43 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43) ([Debian Forky/14](https://snapshot.debian.org/archive/debian/) - [linux-libc-dev](https://deb.debian.org/debian/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian/pool/main/g/gcc-16/?C=M;O=D), [glibc](http://deb.debian.org/debian/pool/main/g/glibc/?C=M;O=D) & [libxcrypt](https://deb.debian.org/debian/pool/main/libx/libxcrypt/?C=M;O=D))
-    - [loongarch64-linux-gnu.2.43-20261022](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261022)
+    - [loongarch64-linux-gnu.2.43-20261024](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261024)
     - [loongarch64-linux-gnu.2.43-20261015](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261015)
     - [loongarch64-linux-gnu.2.43-20261003](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261003)
 - loongarch64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe)
