@@ -7,7 +7,7 @@ $ git commit -avm "$(git -c log.showSignature=false log -1 --format=format:%B)"
 
 git log --show-signature
 git log --pretty=format:"%h %an %ad %s %G?"
-git tag --contains 40b47c74ded17037962f075d28fb57d7e92d360d
+git tag --contains HEAD | sort -V | tee 1
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex="[^[:space:],-._]+"
 git diff --ignore-cr-at-eol --word-diff --word-diff-regex="[[:alnum:]]+|[^[:space:]]"
 📁(U+1F4C1)🔄🔃🌀⏳✅⚠️🐛🐞🪲❌⛔🧪
@@ -164,29 +164,29 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
     - [x86_64-linux-gnu.2.39-20260930 - RHEL 10.2](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.39-20260930)
 #### RHEL 9 - GLIBC 2.34 - May 2032
 - [aarch64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34)
+    - [aarch64-linux-gnu.2.34-20261026 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20261026)
     - [aarch64-linux-gnu.2.34-20261021 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20261021)
     - [aarch64-linux-gnu.2.34-20261009 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20261009)
-    - [aarch64-linux-gnu.2.34-20260930 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.34-20260930)
 - [s390x-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34)
+    - [s390x-linux-gnu.2.34-20261026 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20261026)
     - [s390x-linux-gnu.2.34-20261021 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20261021)
     - [s390x-linux-gnu.2.34-20261009 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20261009)
-    - [s390x-linux-gnu.2.34-20260930 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.34-20260930)
 - [x86_64-linux-gnu.2.34 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34)
+    - [x86_64-linux-gnu.2.34-20261026 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20261026)
     - [x86_64-linux-gnu.2.34-20261021 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20261021)
     - [x86_64-linux-gnu.2.34-20261009 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20261009)
-    - [x86_64-linux-gnu.2.34-20260930 - RHEL 9.8](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.34-20260930)
 
 #### RHEL 8.10 - GLIBC 2.28 - May 2029
 - [aarch64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28)
-    - [aarch64-linux-gnu.2.28-20261023 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261023)
+    - [aarch64-linux-gnu.2.28-20261026 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261026)
     - [aarch64-linux-gnu.2.28-20261014 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261014)
     - [aarch64-linux-gnu.2.28-20261007 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.28-20261007)
 - [s390x-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28)
-    - [s390x-linux-gnu.2.28-20261023 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261023)
+    - [s390x-linux-gnu.2.28-20261026 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261026)
     - [s390x-linux-gnu.2.28-20261014 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261014)
     - [s390x-linux-gnu.2.28-20261007 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/s390x-linux-gnu.2.28-20261007)
 - [x86_64-linux-gnu.2.28 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28)
-    - [x86_64-linux-gnu.2.28-20261023 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261023)
+    - [x86_64-linux-gnu.2.28-20261026 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261026)
     - [x86_64-linux-gnu.2.28-20261014 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261014)
     - [x86_64-linux-gnu.2.28-20261007 - RHEL 8.10](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.28-20261007)
 
@@ -251,21 +251,21 @@ dnf --color never reinstall --setopt=install_weak_deps=False -y --downloadonly -
 ### Linux distribution based on GLIBC 2.38
 #### [Anolis OS 23 - 2030](https://docs.openanolis.cn/document/detail/ojobfl8g)
 - [aarch64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.5)
+    - [aarch64-linux-gnu.2.38-20261023 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.5-20261023)
     - [aarch64-linux-gnu.2.38-20261014 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.5-20261014)
     - [aarch64-linux-gnu.2.38-20261009 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.5-20261009)
-    - [aarch64-linux-gnu.2.38-20260929 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-anolis-23.5-20260929)
 - [loongarch64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.5)
+    - [loongarch64-linux-gnu.2.38-20261023 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.5-20261023)
     - [loongarch64-linux-gnu.2.38-20261014 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.5-20261014)
     - [loongarch64-linux-gnu.2.38-20261009 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.5-20261009)
-    - [loongarch64-linux-gnu.2.38-20260929 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.38-anolis-23.5-20260929)
 - ⚠️[<text style="color : #E67E22">riscv64-linux-gnu.2.38-anolis-23</text> - **<text style="color : #7A52CC">RVA23U64</text> rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.5)
+    - [riscv64-linux-gnu.2.38-20261023 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.5-20261023)
     - [riscv64-linux-gnu.2.38-20261014 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.5-20261014)
     - [riscv64-linux-gnu.2.38-20261009 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.5-20261009)
-    - [riscv64-linux-gnu.2.38-20260929 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.38-anolis-23.5-20260929)
 - [x86_64-linux-gnu.2.38-anolis-23 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.5)
+    - [x86_64-linux-gnu.2.38-20261023 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.5-20261023)
     - [x86_64-linux-gnu.2.38-20261014 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.5-20261014)
     - [x86_64-linux-gnu.2.38-20261009 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.5-20261009)
-    - [x86_64-linux-gnu.2.38-20260929 - Anolis OS 23.5](https://github.com/songdongsheng/asset-store/releases/tag/x86_64-linux-gnu.2.38-anolis-23.5-20260929)
 
 #### [OpenCloud OS 9 - 2033](https://docs.opencloudos.org/en/release/oc_intro/)
 - [aarch64-linux-gnu.2.38-opencloud-9.6 - **rolling**](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.38-opencloud-9.6)
@@ -343,9 +343,9 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
     - [loongarch64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260910)
     - [loongarch64-linux-gnu.2.43-xe-20260829](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260829)
 - riscv64-linux-gnu.2.43 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43) ([Debian Forky/14](https://wiki.debian.org/DebianReleases) - [linux-libc-dev](https://packages.debian.org/forky/linux-libc-dev), [gcc](https://packages.debian.org/forky/gcc-16), [glibc](https://packages.debian.org/forky/libc6) & [libxcrypt](https://packages.debian.org/forky/libcrypt-dev))
+    - [riscv64-linux-gnu.2.43-20261022](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20261022)
     - [riscv64-linux-gnu.2.43-20261015](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20261015)
     - [riscv64-linux-gnu.2.43-20261003](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20261003)
-    - [riscv64-linux-gnu.2.43-20260926](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-20260926)
 - riscv64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe)
     - [riscv64-linux-gnu.2.43-xe-20260918](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe-20260918)
     - [riscv64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/riscv64-linux-gnu.2.43-xe-20260910)
