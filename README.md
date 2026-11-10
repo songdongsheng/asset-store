@@ -89,6 +89,7 @@ net use O: \\opi4p-01.local\dongsheng /USER:opi4p-01.local\dongsheng /PERSISTENT
 20.1.8-20250708-g87f0227cb       -> 21.1.8-20251212-g2078da43e       -> 22.1.8-20260616-gca7933e47
 -->
 - [Clang](https://releases.llvm.org/23.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/23.1.0/docs/ReleaseNotes.html) - [23.x](https://github.com/llvm/llvm-project/commits/release/23.x)
+    - [Clang + LLVM 23.1.5 - 20261103](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.5): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-23.1.5)
     - [Clang + LLVM 23.1.4 - 20261020](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.4): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-23.1.4)
     - [Clang + LLVM 23.1.3 - 20261006](https://github.com/llvm/llvm-project/releases/tag/llvmorg-23.1.3): [(✅aarch64|✅riscv64|✅x86_64)-linux-gnu and ✅Windows 10+](https://github.com/songdongsheng/asset-store/releases/tag/clang+llvm-23.1.3)
 - [Clang](https://releases.llvm.org/22.1.0/tools/clang/docs/ReleaseNotes.html) + [LLVM](https://releases.llvm.org/22.1.0/docs/ReleaseNotes.html) - [22.x](https://github.com/llvm/llvm-project/commits/release/22.x)
@@ -335,9 +336,9 @@ https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=glibc-2.43;users=debian-glibc@
     - [aarch64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260910)
     - [aarch64-linux-gnu.2.43-xe-20260829](https://github.com/songdongsheng/asset-store/releases/tag/aarch64-linux-gnu.2.43-xe-20260829)
 - loongarch64-linux-gnu.2.43 - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43) ([Debian Forky/14](https://snapshot.debian.org/archive/debian/) - [linux-libc-dev](https://deb.debian.org/debian/pool/main/l/linux/?C=M;O=D), [gcc](https://deb.debian.org/debian/pool/main/g/gcc-16/?C=M;O=D), [glibc](http://deb.debian.org/debian/pool/main/g/glibc/?C=M;O=D) & [libxcrypt](https://deb.debian.org/debian/pool/main/libx/libxcrypt/?C=M;O=D))
+    - [loongarch64-linux-gnu.2.43-20261107](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261107)
     - [loongarch64-linux-gnu.2.43-20261101](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261101)
     - [loongarch64-linux-gnu.2.43-20261015](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261015)
-    - [loongarch64-linux-gnu.2.43-20261003](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-20261003)
 - loongarch64-linux-gnu.2.43-xe - [**rolling**](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe)
     - [loongarch64-linux-gnu.2.43-xe-20260918](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260918)
     - [loongarch64-linux-gnu.2.43-xe-20260910](https://github.com/songdongsheng/asset-store/releases/tag/loongarch64-linux-gnu.2.43-xe-20260910)
